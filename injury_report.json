@@ -1,0 +1,238 @@
+{
+    "Nicolas Claxton": {
+        "Team": "Brooklyn",
+        "Position": "C1",
+        "Replacements": [
+            "Day'Ron Sharpe"
+        ]
+    },
+    "Cody Martin": {
+        "Team": "Charlotte",
+        "Position": "SG2",
+        "Replacements": [
+            "Bryce McGowens",
+            "Nick Smith Jr.",
+            "Brandon Miller",
+            "Amari Bailey",
+            "Gordon Hayward",
+            "Theo Maledon"
+        ]
+    },
+    "Jarrett Allen": {
+        "Team": "Cleveland",
+        "Position": "C1",
+        "Replacements": [
+            "Damian Jones"
+        ]
+    },
+    "Darius Garland": {
+        "Team": "Cleveland",
+        "Position": "PG1",
+        "Replacements": [
+            "Caris LeVert",
+            "Craig Porter Jr."
+        ]
+    },
+    "Donovan Mitchell": {
+        "Team": "Cleveland",
+        "Position": "SG1",
+        "Replacements": [
+            "Caris LeVert"
+        ]
+    },
+    "Monte Morris": {
+        "Team": "Detroit",
+        "Position": "PG2",
+        "Replacements": [
+            "Marcus Sasser",
+            "Jaden Ivey",
+            "Cade Cunningham",
+            "Ausar Thompson",
+            "Alec Burks"
+        ]
+    },
+    "Klay Thompson": {
+        "Team": "Golden St.",
+        "Position": "SG1",
+        "Replacements": [
+            "Moses Moody"
+        ]
+    },
+    "Jonathan Kuminga": {
+        "Team": "Golden St.",
+        "Position": "PF2",
+        "Replacements": [
+            "Andrew Wiggins",
+            "Dario Saric",
+            "Trayce Jackson-Davis",
+            "Usman Garuba"
+        ]
+    },
+    "Jock Landale": {
+        "Team": "Houston",
+        "Position": "C2",
+        "Replacements": [
+            "Boban Marjanovic",
+            "Jeff Green",
+            "Jabari Smith"
+        ]
+    },
+    "Tari Eason": {
+        "Team": "Houston",
+        "Position": "PF2",
+        "Replacements": [
+            "Jeff Green",
+            "Jae'Sean Tate",
+            "Reggie Bullock",
+            "Dillon Brooks",
+            "Jermaine Samuels"
+        ]
+    },
+    "Ivica Zubac": {
+        "Team": "L.A. Clippers",
+        "Position": "C1",
+        "Replacements": [
+            "Mason Plumlee"
+        ]
+    },
+    "LeBron James": {
+        "Team": "L.A. Lakers",
+        "Position": "SF1",
+        "Replacements": [
+            "Taurean Prince"
+        ]
+    },
+    "Jarred Vanderbilt": {
+        "Team": "L.A. Lakers",
+        "Position": "PF1",
+        "Replacements": [
+            "Taurean Prince"
+        ]
+    },
+    "Santi Aldama": {
+        "Team": "Memphis",
+        "Position": "PF2",
+        "Replacements": [
+            "Jake LaRavia",
+            "David Roddy",
+            "Kenneth Lofton Jr.",
+            "Xavier Tillman",
+            "Ziaire Williams"
+        ]
+    },
+    "Luke Kennard": {
+        "Team": "Memphis",
+        "Position": "SG2",
+        "Replacements": [
+            "Derrick Rose",
+            "Marcus Smart",
+            "John Konchar",
+            "Ziaire Williams",
+            "David Roddy",
+            "Vince Williams Jr."
+        ]
+    },
+    "Bam Adebayo": {
+        "Team": "Miami",
+        "Position": "C1",
+        "Replacements": [
+            "Thomas Bryant"
+        ]
+    },
+    "MarJon Beauchamp": {
+        "Team": "Milwaukee",
+        "Position": "SG2",
+        "Replacements": [
+            "Khris Middleton",
+            "Pat Connaughton",
+            "Cameron Payne",
+            "AJ Green",
+            "Andre Jackson Jr."
+        ]
+    },
+    "Jose Alvarado": {
+        "Team": "New Orleans",
+        "Position": "PG2",
+        "Replacements": [
+            "Kira Lewis Jr.",
+            "Dyson Daniels"
+        ]
+    },
+    "Trey Murphy III": {
+        "Team": "New Orleans",
+        "Position": "SF2",
+        "Replacements": [
+            "Dyson Daniels",
+            "Dereon Seabron",
+            "Kaiser Gates",
+            "Matt Ryan"
+        ]
+    },
+    "Jaylin Williams": {
+        "Team": "Oklahoma City",
+        "Position": "C2",
+        "Replacements": [
+            "Olivier Sarr",
+            "Aleksej Pokusevski",
+            "Davis Bertans"
+        ]
+    },
+    "James Harden": {
+        "Team": "Philadelphia",
+        "Position": "PG1",
+        "Replacements": [
+            "Patrick Beverley"
+        ]
+    },
+    "Bradley Beal": {
+        "Team": "Phoenix",
+        "Position": "SG1",
+        "Replacements": [
+            "Grayson Allen"
+        ]
+    },
+    "Robert Williams III": {
+        "Team": "Portland",
+        "Position": "C2",
+        "Replacements": [
+            "Moses Brown",
+            "Jabari Walker",
+            "Jerami Grant",
+            "Duop Reath"
+        ]
+    },
+    "Anfernee Simons": {
+        "Team": "Portland",
+        "Position": "SG1",
+        "Replacements": [
+            "Shaedon Sharpe"
+        ]
+    },
+    "De'Aaron Fox": {
+        "Team": "Sacramento",
+        "Position": "PG1",
+        "Replacements": [
+            "Davion Mitchell"
+        ]
+    },
+    "Daniel Gafford": {
+        "Team": "Washington",
+        "Position": "C1",
+        "Replacements": [
+            "Mike Muscala"
+        ]
+    },
+    "Landry Shamet": {
+        "Team": "Washington",
+        "Position": "SG2",
+        "Replacements": [
+            "Corey Kispert",
+            "Johnny Davis",
+            "Delon Wright",
+            "Ryan Rollins",
+            "Bilal Coulibaly",
+            "Deni Avdija",
+            "Jared Butler"
+        ]
+    }
+}

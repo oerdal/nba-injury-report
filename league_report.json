@@ -1,6 +1,6 @@
 {
     "Atlanta": {
-        "injuries": [
+        "Injuries": [
             {
                 "Player": "Wesley Matthews",
                 "Position": "SG",
@@ -9,7 +9,7 @@
                 "Injury Status": "Expected to be out until at least Nov 9"
             }
         ],
-        "depth_chart": {
+        "Depth Chart": {
             "Point Guard": [
                 [
                     "Trae Young"
@@ -89,7 +89,7 @@
         }
     },
     "Boston": {
-        "injuries": [
+        "Injuries": [
             {
                 "Player": "Neemias Queta",
                 "Position": "C",
@@ -98,7 +98,7 @@
                 "Injury Status": "Expected to be out until at least Nov 1"
             }
         ],
-        "depth_chart": {
+        "Depth Chart": {
             "Point Guard": [
                 [
                     "Jrue Holiday"
@@ -178,7 +178,14 @@
         }
     },
     "Brooklyn": {
-        "injuries": [
+        "Injuries": [
+            {
+                "Player": "Nicolas Claxton",
+                "Position": "C",
+                "Updated": "Mon, Oct 30",
+                "Injury": "Ankle",
+                "Injury Status": "Expected to be out until at least Nov 3"
+            },
             {
                 "Player": "Cameron Johnson",
                 "Position": "SF",
@@ -192,16 +199,9 @@
                 "Updated": "Sun, Oct 29",
                 "Injury": "Foot",
                 "Injury Status": "Expected to be out until at least Nov 1"
-            },
-            {
-                "Player": "Nicolas Claxton",
-                "Position": "C",
-                "Updated": "Sun, Oct 29",
-                "Injury": "Ankle",
-                "Injury Status": "Expected to be out until at least Nov 1"
             }
         ],
-        "depth_chart": {
+        "Depth Chart": {
             "Point Guard": [
                 [
                     "Ben Simmons"
@@ -283,7 +283,7 @@
         }
     },
     "Charlotte": {
-        "injuries": [
+        "Injuries": [
             {
                 "Player": "Cody Martin",
                 "Position": "SG",
@@ -306,7 +306,7 @@
                 "Injury Status": "Expected to be out until at least Nov 4"
             }
         ],
-        "depth_chart": {
+        "Depth Chart": {
             "Point Guard": [
                 [
                     "LaMelo Ball"
@@ -388,14 +388,7 @@
         }
     },
     "Chicago": {
-        "injuries": [
-            {
-                "Player": "Zach LaVine",
-                "Position": "SG",
-                "Updated": "Sun, Oct 29",
-                "Injury": "Back",
-                "Injury Status": "Game Time Decision"
-            },
+        "Injuries": [
             {
                 "Player": "Lonzo Ball",
                 "Position": "PG",
@@ -404,7 +397,7 @@
                 "Injury Status": "Out for the season"
             }
         ],
-        "depth_chart": {
+        "Depth Chart": {
             "Point Guard": [
                 [
                     "Coby White"
@@ -480,27 +473,27 @@
         }
     },
     "Cleveland": {
-        "injuries": [
+        "Injuries": [
             {
                 "Player": "Jarrett Allen",
                 "Position": "C",
-                "Updated": "Sat, Oct 28",
+                "Updated": "Mon, Oct 30",
                 "Injury": "Ankle",
-                "Injury Status": "Game Time Decision"
-            },
-            {
-                "Player": "Darius Garland",
-                "Position": "PG",
-                "Updated": "Sat, Oct 28",
-                "Injury": "Hamstring",
-                "Injury Status": "Game Time Decision"
+                "Injury Status": "Expected to be out until at least Nov 1"
             },
             {
                 "Player": "Ty Jerome",
                 "Position": "SG",
-                "Updated": "Sat, Oct 28",
+                "Updated": "Mon, Oct 30",
                 "Injury": "Ankle",
-                "Injury Status": "Game Time Decision"
+                "Injury Status": "Expected to be out until at least Nov 1"
+            },
+            {
+                "Player": "Darius Garland",
+                "Position": "PG",
+                "Updated": "Mon, Oct 30",
+                "Injury": "Hamstring",
+                "Injury Status": "Expected to be out until at least Nov 1"
             },
             {
                 "Player": "Donovan Mitchell",
@@ -517,7 +510,7 @@
                 "Injury Status": "Expected to be out until at least Jan 1"
             }
         ],
-        "depth_chart": {
+        "Depth Chart": {
             "Point Guard": [
                 [
                     "Darius Garland"
@@ -592,16 +585,16 @@
         }
     },
     "Dallas": {
-        "injuries": [
+        "Injuries": [
             {
                 "Player": "Kyrie Irving",
                 "Position": "PG",
                 "Updated": "Mon, Oct 30",
                 "Injury": "Foot",
-                "Injury Status": "Game Time Decision"
+                "Injury Status": "Expected to be out until at least Nov 1"
             }
         ],
-        "depth_chart": {
+        "Depth Chart": {
             "Point Guard": [
                 [
                     "Luka Doncic"
@@ -678,7 +671,7 @@
         }
     },
     "Denver": {
-        "injuries": [
+        "Injuries": [
             {
                 "Player": "Jay Huff",
                 "Position": "C",
@@ -694,7 +687,7 @@
                 "Injury Status": "Expected to be out until at least Apr 1"
             }
         ],
-        "depth_chart": {
+        "Depth Chart": {
             "Point Guard": [
                 [
                     "Jamal Murray"
@@ -773,13 +766,13 @@
         }
     },
     "Detroit": {
-        "injuries": [
+        "Injuries": [
             {
-                "Player": "Isaiah Livers",
+                "Player": "Bojan Bogdanovic",
                 "Position": "SF",
                 "Updated": "Tue, Oct 24",
-                "Injury": "Ankle",
-                "Injury Status": "Expected to be out until at least Nov 21"
+                "Injury": "Calf",
+                "Injury Status": "Expected to be out until at least Nov 24"
             },
             {
                 "Player": "Monte Morris",
@@ -789,14 +782,14 @@
                 "Injury Status": "Expected to be out until at least Nov 14"
             },
             {
-                "Player": "Bojan Bogdanovic",
+                "Player": "Isaiah Livers",
                 "Position": "SF",
                 "Updated": "Tue, Oct 24",
-                "Injury": "Calf",
-                "Injury Status": "Expected to be out until at least Nov 24"
+                "Injury": "Ankle",
+                "Injury Status": "Expected to be out until at least Nov 21"
             }
         ],
-        "depth_chart": {
+        "Depth Chart": {
             "Point Guard": [
                 [
                     "Killian Hayes"
@@ -877,30 +870,23 @@
         }
     },
     "Golden St.": {
-        "injuries": [
-            {
-                "Player": "Jonathan Kuminga",
-                "Position": "PF",
-                "Updated": "Mon, Oct 30",
-                "Injury": "Knee",
-                "Injury Status": "Game Time Decision"
-            },
+        "Injuries": [
             {
                 "Player": "Klay Thompson",
                 "Position": "SG",
                 "Updated": "Mon, Oct 30",
                 "Injury": "Knee",
-                "Injury Status": "Game Time Decision"
+                "Injury Status": "Expected to be out until at least Nov 1"
             },
             {
-                "Player": "Draymond Green",
+                "Player": "Jonathan Kuminga",
                 "Position": "PF",
                 "Updated": "Mon, Oct 30",
-                "Injury": "Ankle",
-                "Injury Status": "Game Time Decision"
+                "Injury": "Knee",
+                "Injury Status": "Expected to be out until at least Nov 1"
             }
         ],
-        "depth_chart": {
+        "Depth Chart": {
             "Point Guard": [
                 [
                     "Stephen Curry"
@@ -977,20 +963,20 @@
         }
     },
     "Houston": {
-        "injuries": [
-            {
-                "Player": "Tari Eason",
-                "Position": "PF",
-                "Updated": "Sun, Oct 29",
-                "Injury": "Lower Leg",
-                "Injury Status": "Expected to be out until at least Nov 6"
-            },
+        "Injuries": [
             {
                 "Player": "Jock Landale",
                 "Position": "C",
                 "Updated": "Sun, Oct 29",
                 "Injury": "Concussion",
                 "Injury Status": "Game Time Decision"
+            },
+            {
+                "Player": "Tari Eason",
+                "Position": "PF",
+                "Updated": "Sun, Oct 29",
+                "Injury": "Lower Leg",
+                "Injury Status": "Expected to be out until at least Nov 6"
             },
             {
                 "Player": "Victor Oladipo",
@@ -1000,7 +986,7 @@
                 "Injury Status": "Expected to be out until at least Nov 17"
             }
         ],
-        "depth_chart": {
+        "Depth Chart": {
             "Point Guard": [
                 [
                     "Fred VanVleet"
@@ -1082,7 +1068,14 @@
         }
     },
     "L.A. Clippers": {
-        "injuries": [
+        "Injuries": [
+            {
+                "Player": "Marcus Morris",
+                "Position": "PF",
+                "Updated": "Mon, Oct 30",
+                "Injury": "Personal",
+                "Injury Status": "Game Time Decision"
+            },
             {
                 "Player": "Terance Mann",
                 "Position": "SG",
@@ -1095,13 +1088,6 @@
                 "Position": "C",
                 "Updated": "Mon, Oct 30",
                 "Injury": "Quadriceps",
-                "Injury Status": "Game Time Decision"
-            },
-            {
-                "Player": "Marcus Morris",
-                "Position": "PF",
-                "Updated": "Mon, Oct 30",
-                "Injury": "Personal",
                 "Injury Status": "Game Time Decision"
             },
             {
@@ -1119,7 +1105,7 @@
                 "Injury Status": "Expected to be out until at least Nov 1"
             }
         ],
-        "depth_chart": {
+        "Depth Chart": {
             "Point Guard": [
                 [
                     "Russell Westbrook"
@@ -1206,7 +1192,7 @@
         }
     },
     "L.A. Lakers": {
-        "injuries": [
+        "Injuries": [
             {
                 "Player": "LeBron James",
                 "Position": "SF",
@@ -1215,18 +1201,18 @@
                 "Injury Status": "Game Time Decision"
             },
             {
-                "Player": "Rui Hachimura",
-                "Position": "PF",
-                "Updated": "Mon, Oct 30",
-                "Injury": "Eye",
-                "Injury Status": "Game Time Decision"
-            },
-            {
                 "Player": "Cam Reddish",
                 "Position": "SF",
                 "Updated": "Mon, Oct 30",
                 "Injury": "Foot",
                 "Injury Status": "Game Time Decision"
+            },
+            {
+                "Player": "Rui Hachimura",
+                "Position": "PF",
+                "Updated": "Mon, Oct 30",
+                "Injury": "Eye",
+                "Injury Status": "Expected to be out until at least Nov 1"
             },
             {
                 "Player": "Jarred Vanderbilt",
@@ -1243,7 +1229,7 @@
                 "Injury Status": "Expected to be out until at least Nov 4"
             }
         ],
-        "depth_chart": {
+        "Depth Chart": {
             "Point Guard": [
                 [
                     "D'Angelo Russell"
@@ -1322,19 +1308,19 @@
         }
     },
     "Memphis": {
-        "injuries": [
-            {
-                "Player": "Luke Kennard",
-                "Position": "SG",
-                "Updated": "Sun, Oct 29",
-                "Injury": "Concussion",
-                "Injury Status": "Expected to be out until at least Nov 1"
-            },
+        "Injuries": [
             {
                 "Player": "Santi Aldama",
                 "Position": "PF",
                 "Updated": "Sun, Oct 29",
                 "Injury": "Ankle",
+                "Injury Status": "Expected to be out until at least Nov 1"
+            },
+            {
+                "Player": "Luke Kennard",
+                "Position": "SG",
+                "Updated": "Sun, Oct 29",
+                "Injury": "Concussion",
                 "Injury Status": "Expected to be out until at least Nov 1"
             },
             {
@@ -1352,7 +1338,7 @@
                 "Injury Status": "Expected to be out until at least Feb 1"
             }
         ],
-        "depth_chart": {
+        "Depth Chart": {
             "Point Guard": [
                 [
                     "Marcus Smart"
@@ -1395,7 +1381,6 @@
                     "Jake LaRavia",
                     "Luke Kennard",
                     "Desmond Bane",
-                    "Gregory Jackson",
                     "Vince Williams Jr."
                 ]
             ],
@@ -1410,7 +1395,6 @@
                     "Jake LaRavia",
                     "David Roddy",
                     "Kenneth Lofton Jr.",
-                    "Gregory Jackson",
                     "Xavier Tillman",
                     "Ziaire Williams",
                     "Brandon Clarke"
@@ -1433,13 +1417,13 @@
         }
     },
     "Miami": {
-        "injuries": [
+        "Injuries": [
             {
                 "Player": "Bam Adebayo",
                 "Position": "C",
                 "Updated": "Mon, Oct 30",
                 "Injury": "Hip",
-                "Injury Status": "Game Time Decision"
+                "Injury Status": "Expected to be out until at least Nov 1"
             },
             {
                 "Player": "Caleb Martin",
@@ -1449,20 +1433,6 @@
                 "Injury Status": "Expected to be out until at least Nov 1"
             },
             {
-                "Player": "Kevin Love",
-                "Position": "PF",
-                "Updated": "Sat, Oct 28",
-                "Injury": "Shoulder",
-                "Injury Status": "Game Time Decision"
-            },
-            {
-                "Player": "Josh Richardson",
-                "Position": "SG",
-                "Updated": "Sat, Oct 28",
-                "Injury": "Foot",
-                "Injury Status": "Game Time Decision"
-            },
-            {
                 "Player": "Haywood Highsmith",
                 "Position": "SF",
                 "Updated": "Thu, Oct 19",
@@ -1470,7 +1440,7 @@
                 "Injury Status": "Expected to be out until at least Nov 3"
             }
         ],
-        "depth_chart": {
+        "Depth Chart": {
             "Point Guard": [
                 [
                     "Kyle Lowry"
@@ -1551,7 +1521,7 @@
         }
     },
     "Milwaukee": {
-        "injuries": [
+        "Injuries": [
             {
                 "Player": "MarJon Beauchamp",
                 "Position": "SG",
@@ -1560,7 +1530,7 @@
                 "Injury Status": "Expected to be out until at least Nov 1"
             }
         ],
-        "depth_chart": {
+        "Depth Chart": {
             "Point Guard": [
                 [
                     "Damian Lillard"
@@ -1639,21 +1609,7 @@
         }
     },
     "Minnesota": {
-        "injuries": [
-            {
-                "Player": "Shake Milton",
-                "Position": "SG",
-                "Updated": "Mon, Oct 30",
-                "Injury": "Foot",
-                "Injury Status": "Game Time Decision"
-            },
-            {
-                "Player": "Jaden McDaniels",
-                "Position": "SF",
-                "Updated": "Sat, Oct 28",
-                "Injury": "Calf",
-                "Injury Status": "Game Time Decision"
-            },
+        "Injuries": [
             {
                 "Player": "Jaylen Clark",
                 "Position": "SG",
@@ -1662,7 +1618,7 @@
                 "Injury Status": "Expected to be out until at least Jan 1"
             }
         ],
-        "depth_chart": {
+        "Depth Chart": {
             "Point Guard": [
                 [
                     "Mike Conley"
@@ -1739,7 +1695,14 @@
         }
     },
     "New Orleans": {
-        "injuries": [
+        "Injuries": [
+            {
+                "Player": "Brandon Ingram",
+                "Position": "SF",
+                "Updated": "Mon, Oct 30",
+                "Injury": "Knee",
+                "Injury Status": "Expected to be out until at least Nov 1"
+            },
             {
                 "Player": "Naji Marshall",
                 "Position": "SF",
@@ -1762,7 +1725,7 @@
                 "Injury Status": "Expected to be out until at least Nov 17"
             }
         ],
-        "depth_chart": {
+        "Depth Chart": {
             "Point Guard": [
                 [
                     "CJ McCollum"
@@ -1837,7 +1800,7 @@
         }
     },
     "Oklahoma City": {
-        "injuries": [
+        "Injuries": [
             {
                 "Player": "Kenrich Williams",
                 "Position": "SF",
@@ -1853,7 +1816,7 @@
                 "Injury Status": "Expected to be out until at least Nov 1"
             }
         ],
-        "depth_chart": {
+        "Depth Chart": {
             "Point Guard": [
                 [
                     "Shai Gilgeous-Alexander"
@@ -1937,7 +1900,7 @@
         }
     },
     "Orlando": {
-        "injuries": [
+        "Injuries": [
             {
                 "Player": "Kevon Harris",
                 "Position": "SG",
@@ -1946,7 +1909,7 @@
                 "Injury Status": "Game Time Decision"
             }
         ],
-        "depth_chart": {
+        "Depth Chart": {
             "Point Guard": [
                 [
                     "Markelle Fultz"
@@ -2029,23 +1992,23 @@
         }
     },
     "Philadelphia": {
-        "injuries": [
-            {
-                "Player": "Tyrese Maxey",
-                "Position": "PG",
-                "Updated": "Sun, Oct 29",
-                "Injury": "Hand",
-                "Injury Status": "Game Time Decision"
-            },
+        "Injuries": [
             {
                 "Player": "James Harden",
                 "Position": "PG",
                 "Updated": "Sun, Oct 29",
                 "Injury": "Personal",
                 "Injury Status": "Game Time Decision"
+            },
+            {
+                "Player": "Tyrese Maxey",
+                "Position": "PG",
+                "Updated": "Sun, Oct 29",
+                "Injury": "Hand",
+                "Injury Status": "Game Time Decision"
             }
         ],
-        "depth_chart": {
+        "Depth Chart": {
             "Point Guard": [
                 [
                     "James Harden"
@@ -2124,13 +2087,13 @@
         }
     },
     "Phoenix": {
-        "injuries": [
+        "Injuries": [
             {
                 "Player": "Bradley Beal",
                 "Position": "SG",
-                "Updated": "Sun, Oct 29",
+                "Updated": "Mon, Oct 30",
                 "Injury": "Back",
-                "Injury Status": "Game Time Decision"
+                "Injury Status": "Expected to be out until at least Nov 2"
             },
             {
                 "Player": "Devin Booker",
@@ -2147,7 +2110,7 @@
                 "Injury Status": "Expected to be out until at least Dec 31"
             }
         ],
-        "depth_chart": {
+        "Depth Chart": {
             "Point Guard": [
                 [
                     "Devin Booker"
@@ -2226,7 +2189,7 @@
         }
     },
     "Portland": {
-        "injuries": [
+        "Injuries": [
             {
                 "Player": "Robert Williams III",
                 "Position": "C",
@@ -2249,7 +2212,7 @@
                 "Injury Status": "Expected to be out until at least Dec 2"
             }
         ],
-        "depth_chart": {
+        "Depth Chart": {
             "Point Guard": [
                 [
                     "Scoot Henderson"
@@ -2328,7 +2291,7 @@
         }
     },
     "Sacramento": {
-        "injuries": [
+        "Injuries": [
             {
                 "Player": "De'Aaron Fox",
                 "Position": "PG",
@@ -2344,7 +2307,7 @@
                 "Injury Status": "Game Time Decision"
             }
         ],
-        "depth_chart": {
+        "Depth Chart": {
             "Point Guard": [
                 [
                     "De'Aaron Fox"
@@ -2421,30 +2384,23 @@
         }
     },
     "Toronto": {
-        "injuries": [
+        "Injuries": [
+            {
+                "Player": "Precious Achiuwa",
+                "Position": "PF",
+                "Updated": "Mon, Oct 30",
+                "Injury": "Groin",
+                "Injury Status": "Expected to be out until at least Nov 1"
+            },
             {
                 "Player": "Christian Koloko",
                 "Position": "C",
                 "Updated": "Sun, Oct 29",
                 "Injury": "Illness",
                 "Injury Status": "Expected to be out until at least Nov 1"
-            },
-            {
-                "Player": "OG Anunoby",
-                "Position": "SF",
-                "Updated": "Sat, Oct 28",
-                "Injury": "Leg",
-                "Injury Status": "Game Time Decision"
-            },
-            {
-                "Player": "Precious Achiuwa",
-                "Position": "PF",
-                "Updated": "Sat, Oct 28",
-                "Injury": "Groin",
-                "Injury Status": "Game Time Decision"
             }
         ],
-        "depth_chart": {
+        "Depth Chart": {
             "Point Guard": [
                 [
                     "Dennis Schroder"
@@ -2526,13 +2482,13 @@
         }
     },
     "Washington": {
-        "injuries": [
+        "Injuries": [
             {
                 "Player": "Daniel Gafford",
                 "Position": "C",
-                "Updated": "Sun, Oct 29",
+                "Updated": "Mon, Oct 30",
                 "Injury": "Ankle",
-                "Injury Status": "Game Time Decision"
+                "Injury Status": "Expected to be out until at least Nov 1"
             },
             {
                 "Player": "Landry Shamet",
@@ -2542,7 +2498,7 @@
                 "Injury Status": "Expected to be out until at least Nov 1"
             }
         ],
-        "depth_chart": {
+        "Depth Chart": {
             "Point Guard": [
                 [
                     "Tyus Jones"
