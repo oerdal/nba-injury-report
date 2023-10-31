@@ -17,14 +17,16 @@ def load_report():
 
 
 def find_player_in_depth_chart(player: dict[str, str], depth_chart: dict[str, list[list[str]]]) -> tuple[str, int]:
-    position = POSITION_MAP[player['Position']]
-    tiered_players = depth_chart[position]
+    # position = POSITION_MAP[player['Position']] # this is incorrect
+    # tiered_players = depth_chart[position]
 
-    for rank, players in enumerate(tiered_players):
-        if player['Player'] in players:
-            return (position, rank)
+    player_data = []
+    for position, tiered_players in depth_chart.items():
+        for rank, players in enumerate(tiered_players):
+            if player['Player'] in players:
+                player_data.append((position, rank))
 
-    return None
+    return player_data
 
 
 # pre-condition: player will not be in the lowest tier of the depth_chart (will always have replacements)
@@ -44,20 +46,21 @@ def process_report(report):
         injured_players = {player['Player'] for player in injuries}
 
         for player in injuries:
-            position, rank = find_player_in_depth_chart(player, depth_chart)
-            if rank < 2:
-                replacements = find_replacements_in_depth_chart((position, rank), depth_chart)
-                # remove injured players from replacements
-                replacements = [replacement for replacement in replacements if replacement not in injured_players]
-
-                # check if the backup(s) are injured as well and get further players
-                if rank == 0 and not replacements:
-                    replacements = find_replacements_in_depth_chart((position, rank+1), depth_chart)
+            player_data = find_player_in_depth_chart(player, depth_chart)
+            for position, rank in player_data:
+                if rank < 2:
+                    replacements = find_replacements_in_depth_chart((position, rank), depth_chart)
                     # remove injured players from replacements
                     replacements = [replacement for replacement in replacements if replacement not in injured_players]
 
-                injury_report[player['Player']] = {'Team': team, 'Position': f'{player["Position"]}{rank+1}', 'Replacements': replacements}
-                print(f'{player["Player"]} at {position} #{rank+1} with potential replacements: {replacements}')
+                    # check if the backup(s) are injured as well and get further players
+                    if rank == 0 and not replacements:
+                        replacements = find_replacements_in_depth_chart((position, rank+1), depth_chart)
+                        # remove injured players from replacements
+                        replacements = [replacement for replacement in replacements if replacement not in injured_players]
+
+                    injury_report[f'{player["Player"]} ({position})'] = {'Team': team, 'Replacements': replacements}
+                    print(f'{player["Player"]} at {position} #{rank+1} with potential replacements: {replacements}')
         
     return injury_report
 

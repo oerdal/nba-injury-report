@@ -194,6 +194,13 @@
                 "Injury Status": "Expected to be out until at least Nov 10"
             },
             {
+                "Player": "Spencer Dinwiddie",
+                "Position": "PG",
+                "Updated": "Mon, Oct 30",
+                "Injury": "Ankle",
+                "Injury Status": "Expected to be out until at least Nov 1"
+            },
+            {
                 "Player": "Dariq Whitehead",
                 "Position": "SG",
                 "Updated": "Sun, Oct 29",
@@ -768,13 +775,6 @@
     "Detroit": {
         "Injuries": [
             {
-                "Player": "Bojan Bogdanovic",
-                "Position": "SF",
-                "Updated": "Tue, Oct 24",
-                "Injury": "Calf",
-                "Injury Status": "Expected to be out until at least Nov 24"
-            },
-            {
                 "Player": "Monte Morris",
                 "Position": "PG",
                 "Updated": "Tue, Oct 24",
@@ -787,6 +787,13 @@
                 "Updated": "Tue, Oct 24",
                 "Injury": "Ankle",
                 "Injury Status": "Expected to be out until at least Nov 21"
+            },
+            {
+                "Player": "Bojan Bogdanovic",
+                "Position": "SF",
+                "Updated": "Tue, Oct 24",
+                "Injury": "Calf",
+                "Injury Status": "Expected to be out until at least Nov 24"
             }
         ],
         "Depth Chart": {
@@ -872,15 +879,15 @@
     "Golden St.": {
         "Injuries": [
             {
-                "Player": "Klay Thompson",
-                "Position": "SG",
+                "Player": "Jonathan Kuminga",
+                "Position": "PF",
                 "Updated": "Mon, Oct 30",
                 "Injury": "Knee",
                 "Injury Status": "Expected to be out until at least Nov 1"
             },
             {
-                "Player": "Jonathan Kuminga",
-                "Position": "PF",
+                "Player": "Klay Thompson",
+                "Position": "SG",
                 "Updated": "Mon, Oct 30",
                 "Injury": "Knee",
                 "Injury Status": "Expected to be out until at least Nov 1"
@@ -965,18 +972,18 @@
     "Houston": {
         "Injuries": [
             {
-                "Player": "Jock Landale",
-                "Position": "C",
-                "Updated": "Sun, Oct 29",
-                "Injury": "Concussion",
-                "Injury Status": "Game Time Decision"
-            },
-            {
                 "Player": "Tari Eason",
                 "Position": "PF",
                 "Updated": "Sun, Oct 29",
                 "Injury": "Lower Leg",
                 "Injury Status": "Expected to be out until at least Nov 6"
+            },
+            {
+                "Player": "Jock Landale",
+                "Position": "C",
+                "Updated": "Sun, Oct 29",
+                "Injury": "Concussion",
+                "Injury Status": "Game Time Decision"
             },
             {
                 "Player": "Victor Oladipo",
@@ -1074,6 +1081,13 @@
                 "Position": "PF",
                 "Updated": "Mon, Oct 30",
                 "Injury": "Personal",
+                "Injury Status": "Expected to be out until at least Nov 1"
+            },
+            {
+                "Player": "Ivica Zubac",
+                "Position": "C",
+                "Updated": "Mon, Oct 30",
+                "Injury": "Quadriceps",
                 "Injury Status": "Game Time Decision"
             },
             {
@@ -1081,13 +1095,13 @@
                 "Position": "SG",
                 "Updated": "Mon, Oct 30",
                 "Injury": "Ankle",
-                "Injury Status": "Game Time Decision"
+                "Injury Status": "Expected to be out until at least Nov 1"
             },
             {
-                "Player": "Ivica Zubac",
-                "Position": "C",
+                "Player": "Norman Powell",
+                "Position": "SG",
                 "Updated": "Mon, Oct 30",
-                "Injury": "Quadriceps",
+                "Injury": "Foot",
                 "Injury Status": "Game Time Decision"
             },
             {
@@ -1697,18 +1711,18 @@
     "New Orleans": {
         "Injuries": [
             {
-                "Player": "Brandon Ingram",
-                "Position": "SF",
-                "Updated": "Mon, Oct 30",
-                "Injury": "Knee",
-                "Injury Status": "Expected to be out until at least Nov 1"
-            },
-            {
                 "Player": "Naji Marshall",
                 "Position": "SF",
                 "Updated": "Mon, Oct 30",
                 "Injury": "Knee",
                 "Injury Status": "Expected to be out until at least Nov 14"
+            },
+            {
+                "Player": "Brandon Ingram",
+                "Position": "SF",
+                "Updated": "Mon, Oct 30",
+                "Injury": "Knee",
+                "Injury Status": "Expected to be out until at least Nov 1"
             },
             {
                 "Player": "Jose Alvarado",
@@ -1994,17 +2008,17 @@
     "Philadelphia": {
         "Injuries": [
             {
-                "Player": "James Harden",
-                "Position": "PG",
-                "Updated": "Sun, Oct 29",
-                "Injury": "Personal",
-                "Injury Status": "Game Time Decision"
-            },
-            {
                 "Player": "Tyrese Maxey",
                 "Position": "PG",
                 "Updated": "Sun, Oct 29",
                 "Injury": "Hand",
+                "Injury Status": "Game Time Decision"
+            },
+            {
+                "Player": "James Harden",
+                "Position": "PG",
+                "Updated": "Sun, Oct 29",
+                "Injury": "Personal",
                 "Injury Status": "Game Time Decision"
             }
         ],
