@@ -2,11 +2,39 @@
     "Atlanta": {
         "Injuries": [
             {
-                "Player": "Wesley Matthews",
+                "Player": "De'Andre Hunter",
+                "Position": "SF",
+                "Updated": "Wed, Dec 13",
+                "Injury": "Quadriceps",
+                "Injury Status": "Expected to be out until at least Dec 15"
+            },
+            {
+                "Player": "AJ Griffin",
                 "Position": "SG",
-                "Updated": "Wed, Oct 25",
-                "Injury": "Calf",
-                "Injury Status": "Expected to be out until at least Nov 9"
+                "Updated": "Wed, Dec 13",
+                "Injury": "Personal",
+                "Injury Status": "Expected to be out until at least Dec 15"
+            },
+            {
+                "Player": "Mouhamed Gueye",
+                "Position": "PF",
+                "Updated": "Tue, Dec 12",
+                "Injury": "Back",
+                "Injury Status": "Expected to be out until at least Dec 15"
+            },
+            {
+                "Player": "Jalen Johnson",
+                "Position": "SF",
+                "Updated": "Sun, Nov 26",
+                "Injury": "Wrist",
+                "Injury Status": "Expected to be out until at least Dec 26"
+            },
+            {
+                "Player": "Kobe Bufkin",
+                "Position": "SG",
+                "Updated": "Sun, Nov 12",
+                "Injury": "Thumb",
+                "Injury Status": "Expected to be out until at least Jan 7"
             }
         ],
         "Depth Chart": {
@@ -18,10 +46,10 @@
                     "Dejounte Murray"
                 ],
                 [
+                    "Trent Forrest",
                     "Patty Mills",
-                    "Kobe Bufkin",
                     "Bogdan Bogdanovic",
-                    "Trent Forrest"
+                    "Kobe Bufkin"
                 ]
             ],
             "Shooting Guard": [
@@ -32,14 +60,14 @@
                     "Bogdan Bogdanovic"
                 ],
                 [
-                    "Patty Mills",
                     "AJ Griffin",
                     "Wesley Matthews",
-                    "Kobe Bufkin",
                     "Garrison Mathews",
+                    "Patty Mills",
                     "Trent Forrest",
                     "Saddiq Bey",
-                    "Seth Lundy"
+                    "Seth Lundy",
+                    "Kobe Bufkin"
                 ]
             ],
             "Small Forward": [
@@ -47,13 +75,13 @@
                     "De'Andre Hunter"
                 ],
                 [
-                    "AJ Griffin"
+                    "Wesley Matthews"
                 ],
                 [
+                    "AJ Griffin",
                     "Bogdan Bogdanovic",
-                    "Saddiq Bey",
-                    "Wesley Matthews",
                     "Garrison Mathews",
+                    "Saddiq Bey",
                     "Trent Forrest",
                     "Jalen Johnson",
                     "Seth Lundy"
@@ -68,10 +96,10 @@
                 ],
                 [
                     "De'Andre Hunter",
-                    "Mouhamed Gueye",
                     "Bruno Fernando",
                     "Onyeka Okongwu",
-                    "Miles Norris"
+                    "Miles Norris",
+                    "Mouhamed Gueye"
                 ]
             ],
             "Center": [
@@ -91,11 +119,11 @@
     "Boston": {
         "Injuries": [
             {
-                "Player": "Neemias Queta",
-                "Position": "C",
-                "Updated": "Mon, Oct 30",
-                "Injury": "Foot",
-                "Injury Status": "Expected to be out until at least Nov 1"
+                "Player": "Jaylen Brown",
+                "Position": "SF",
+                "Updated": "Wed, Dec 13",
+                "Injury": "Ankle",
+                "Injury Status": "Game Time Decision"
             }
         ],
         "Depth Chart": {
@@ -117,15 +145,15 @@
                     "Derrick White"
                 ],
                 [
-                    "Jaylen Brown"
+                    "Sam Hauser"
                 ],
                 [
+                    "Jaylen Brown",
                     "Jrue Holiday",
                     "Payton Pritchard",
-                    "Lamar Stevens",
-                    "Sam Hauser",
-                    "Svi Mykhailiuk",
                     "Dalano Banton",
+                    "Svi Mykhailiuk",
+                    "Lamar Stevens",
                     "JD Davison"
                 ]
             ],
@@ -134,15 +162,15 @@
                     "Jaylen Brown"
                 ],
                 [
-                    "Sam Hauser"
+                    "Dalano Banton"
                 ],
                 [
+                    "Sam Hauser",
                     "Jayson Tatum",
-                    "Lamar Stevens",
-                    "Jordan Walsh",
-                    "Dalano Banton",
                     "Svi Mykhailiuk",
-                    "Oshae Brissett"
+                    "Lamar Stevens",
+                    "Oshae Brissett",
+                    "Jordan Walsh"
                 ]
             ],
             "Power Forward": [
@@ -154,12 +182,11 @@
                 ],
                 [
                     "Kristaps Porzingis",
-                    "Oshae Brissett",
                     "Lamar Stevens",
+                    "Oshae Brissett",
                     "Sam Hauser",
                     "Jordan Walsh",
-                    "Luke Kornet",
-                    "Nathan Knight"
+                    "Luke Kornet"
                 ]
             ],
             "Center": [
@@ -171,8 +198,7 @@
                 ],
                 [
                     "Luke Kornet",
-                    "Neemias Queta",
-                    "Nathan Knight"
+                    "Neemias Queta"
                 ]
             ]
         }
@@ -180,62 +206,64 @@
     "Brooklyn": {
         "Injuries": [
             {
-                "Player": "Nicolas Claxton",
-                "Position": "C",
-                "Updated": "Mon, Oct 30",
-                "Injury": "Ankle",
-                "Injury Status": "Expected to be out until at least Nov 3"
-            },
-            {
-                "Player": "Cameron Johnson",
-                "Position": "SF",
-                "Updated": "Mon, Oct 30",
-                "Injury": "Calf",
-                "Injury Status": "Expected to be out until at least Nov 10"
-            },
-            {
-                "Player": "Spencer Dinwiddie",
-                "Position": "PG",
-                "Updated": "Mon, Oct 30",
-                "Injury": "Ankle",
-                "Injury Status": "Expected to be out until at least Nov 1"
-            },
-            {
                 "Player": "Dariq Whitehead",
                 "Position": "SG",
-                "Updated": "Sun, Oct 29",
+                "Updated": "Wed, Dec 13",
                 "Injury": "Foot",
-                "Injury Status": "Expected to be out until at least Nov 1"
+                "Injury Status": "Expected to be out until at least Dec 13"
+            },
+            {
+                "Player": "Dennis Smith Jr.",
+                "Position": "PG",
+                "Updated": "Tue, Dec 12",
+                "Injury": "Back",
+                "Injury Status": "Expected to be out until at least Dec 14"
+            },
+            {
+                "Player": "Ben Simmons",
+                "Position": "PG",
+                "Updated": "Tue, Dec 5",
+                "Injury": "Back",
+                "Injury Status": "Expected to be out until at least Dec 20"
+            },
+            {
+                "Player": "Lonnie Walker IV",
+                "Position": "SG",
+                "Updated": "Tue, Dec 5",
+                "Injury": "Hamstring",
+                "Injury Status": "Expected to be out until at least Dec 20"
             }
         ],
         "Depth Chart": {
             "Point Guard": [
                 [
-                    "Ben Simmons"
+                    "Spencer Dinwiddie"
                 ],
                 [
                     "Dennis Smith Jr."
                 ],
                 [
-                    "Spencer Dinwiddie",
                     "Cameron Thomas",
-                    "Armoni Brooks"
+                    "Armoni Brooks",
+                    "Keon Johnson",
+                    "Ben Simmons"
                 ]
             ],
             "Shooting Guard": [
                 [
-                    "Spencer Dinwiddie"
-                ],
-                [
                     "Cameron Thomas"
                 ],
                 [
-                    "Lonnie Walker IV",
-                    "Mikal Bridges",
-                    "Dariq Whitehead",
+                    "Lonnie Walker IV"
+                ],
+                [
+                    "Spencer Dinwiddie",
                     "Royce O'Neale",
+                    "Mikal Bridges",
                     "Dennis Smith Jr.",
-                    "Armoni Brooks"
+                    "Dariq Whitehead",
+                    "Armoni Brooks",
+                    "Keon Johnson"
                 ]
             ],
             "Small Forward": [
@@ -246,11 +274,11 @@
                     "Royce O'Neale"
                 ],
                 [
-                    "Cameron Johnson",
                     "Lonnie Walker IV",
+                    "Cameron Thomas",
+                    "Cameron Johnson",
                     "Dorian Finney-Smith",
                     "Dariq Whitehead",
-                    "Cameron Thomas",
                     "Jalen Wilson"
                 ]
             ],
@@ -262,14 +290,14 @@
                     "Dorian Finney-Smith"
                 ],
                 [
-                    "Ben Simmons",
+                    "Mikal Bridges",
                     "Royce O'Neale",
                     "Trendon Watford",
                     "Noah Clowney",
                     "Dariq Whitehead",
                     "Harry Giles III",
                     "Jalen Wilson",
-                    "Mikal Bridges"
+                    "Ben Simmons"
                 ]
             ],
             "Center": [
@@ -280,11 +308,12 @@
                     "Day'Ron Sharpe"
                 ],
                 [
-                    "Ben Simmons",
+                    "Dorian Finney-Smith",
                     "Trendon Watford",
                     "Harry Giles III",
                     "Noah Clowney",
-                    "Royce O'Neale"
+                    "Royce O'Neale",
+                    "Ben Simmons"
                 ]
             ]
         }
@@ -292,60 +321,68 @@
     "Charlotte": {
         "Injuries": [
             {
+                "Player": "Mark Williams",
+                "Position": "C",
+                "Updated": "Wed, Dec 13",
+                "Injury": "Back",
+                "Injury Status": "Expected to be out until at least Dec 15"
+            },
+            {
                 "Player": "Cody Martin",
                 "Position": "SG",
-                "Updated": "Sun, Oct 29",
+                "Updated": "Tue, Dec 12",
                 "Injury": "Knee",
-                "Injury Status": "Expected to be out until at least Nov 1"
+                "Injury Status": "Expected to be out until at least Dec 15"
             },
             {
                 "Player": "Frank Ntilikina",
                 "Position": "PG",
-                "Updated": "Wed, Oct 25",
+                "Updated": "Tue, Dec 12",
                 "Injury": "Lower Leg",
-                "Injury Status": "Expected to be out until at least Nov 20"
+                "Injury Status": "Expected to be out until at least Dec 15"
             },
             {
-                "Player": "James Bouknight",
-                "Position": "SG",
-                "Updated": "Tue, Oct 10",
-                "Injury": "Knee",
-                "Injury Status": "Expected to be out until at least Nov 4"
+                "Player": "LaMelo Ball",
+                "Position": "PG",
+                "Updated": "Tue, Nov 28",
+                "Injury": "Ankle",
+                "Injury Status": "Expected to be out until at least Dec 23"
             }
         ],
         "Depth Chart": {
             "Point Guard": [
                 [
-                    "LaMelo Ball"
+                    "Terry Rozier"
                 ],
                 [
                     "Ish Smith"
                 ],
                 [
                     "Theo Maledon",
+                    "James Bouknight",
                     "Nick Smith Jr.",
-                    "Terry Rozier",
+                    "Amari Bailey",
+                    "LaMelo Ball",
                     "Frank Ntilikina",
-                    "Cody Martin",
-                    "James Bouknight"
+                    "Cody Martin"
                 ]
             ],
             "Shooting Guard": [
                 [
-                    "Terry Rozier"
+                    "Brandon Miller"
                 ],
                 [
-                    "Cody Martin"
+                    "Bryce McGowens"
                 ],
                 [
-                    "Bryce McGowens",
+                    "Terry Rozier",
                     "Nick Smith Jr.",
-                    "Brandon Miller",
-                    "Frank Ntilikina",
+                    "James Bouknight",
+                    "Theo Maledon",
                     "Amari Bailey",
                     "Gordon Hayward",
-                    "James Bouknight",
-                    "Theo Maledon"
+                    "Frank Ntilikina",
+                    "Cody Martin"
                 ]
             ],
             "Small Forward": [
@@ -353,31 +390,31 @@
                     "Gordon Hayward"
                 ],
                 [
-                    "Brandon Miller"
-                ],
-                [
-                    "Cody Martin",
-                    "Bryce McGowens",
-                    "Frank Ntilikina",
-                    "Nick Smith Jr.",
-                    "JT Thor",
-                    "Amari Bailey",
-                    "Leaky Black",
-                    "Miles Bridges"
-                ]
-            ],
-            "Power Forward": [
-                [
-                    "PJ Washington"
-                ],
-                [
                     "JT Thor"
                 ],
                 [
                     "Brandon Miller",
+                    "Bryce McGowens",
+                    "Miles Bridges",
+                    "Nick Smith Jr.",
+                    "James Bouknight",
+                    "Leaky Black",
+                    "Cody Martin",
+                    "Frank Ntilikina"
+                ]
+            ],
+            "Power Forward": [
+                [
+                    "Miles Bridges"
+                ],
+                [
+                    "PJ Washington"
+                ],
+                [
+                    "JT Thor",
                     "Gordon Hayward",
                     "Leaky Black",
-                    "Miles Bridges"
+                    "Brandon Miller"
                 ]
             ],
             "Center": [
@@ -389,6 +426,7 @@
                 ],
                 [
                     "PJ Washington",
+                    "JT Thor",
                     "Miles Bridges"
                 ]
             ]
@@ -396,6 +434,20 @@
     },
     "Chicago": {
         "Injuries": [
+            {
+                "Player": "Alex Caruso",
+                "Position": "SG",
+                "Updated": "Tue, Dec 12",
+                "Injury": "Ankle",
+                "Injury Status": "Game Time Decision"
+            },
+            {
+                "Player": "Zach LaVine",
+                "Position": "SG",
+                "Updated": "Wed, Dec 6",
+                "Injury": "Foot",
+                "Injury Status": "Expected to be out until at least Dec 28"
+            },
             {
                 "Player": "Lonzo Ball",
                 "Position": "PG",
@@ -410,11 +462,11 @@
                     "Coby White"
                 ],
                 [
-                    "Alex Caruso"
+                    "Ayo Dosunmu"
                 ],
                 [
                     "Jevon Carter",
-                    "Ayo Dosunmu",
+                    "Alex Caruso",
                     "Lonzo Ball"
                 ]
             ],
@@ -426,8 +478,8 @@
                     "Jevon Carter"
                 ],
                 [
-                    "Ayo Dosunmu",
                     "Alex Caruso",
+                    "Ayo Dosunmu",
                     "Coby White",
                     "Dalen Terry",
                     "DeMar DeRozan",
@@ -439,14 +491,14 @@
                     "DeMar DeRozan"
                 ],
                 [
-                    "Ayo Dosunmu"
+                    "Alex Caruso"
                 ],
                 [
-                    "Dalen Terry",
                     "Zach LaVine",
-                    "Alex Caruso",
                     "Patrick Williams",
+                    "Ayo Dosunmu",
                     "Julian Phillips",
+                    "Dalen Terry",
                     "Justin Lewis",
                     "Torrey Craig",
                     "Onuralp Bitim"
@@ -482,32 +534,18 @@
     "Cleveland": {
         "Injuries": [
             {
-                "Player": "Jarrett Allen",
-                "Position": "C",
-                "Updated": "Mon, Oct 30",
-                "Injury": "Ankle",
-                "Injury Status": "Expected to be out until at least Nov 1"
-            },
-            {
                 "Player": "Ty Jerome",
                 "Position": "SG",
-                "Updated": "Mon, Oct 30",
+                "Updated": "Wed, Dec 13",
                 "Injury": "Ankle",
-                "Injury Status": "Expected to be out until at least Nov 1"
+                "Injury Status": "Expected to be out until at least Dec 16"
             },
             {
-                "Player": "Darius Garland",
-                "Position": "PG",
-                "Updated": "Mon, Oct 30",
-                "Injury": "Hamstring",
-                "Injury Status": "Expected to be out until at least Nov 1"
-            },
-            {
-                "Player": "Donovan Mitchell",
-                "Position": "SG",
-                "Updated": "Sat, Oct 28",
-                "Injury": "Hamstring",
-                "Injury Status": "Game Time Decision"
+                "Player": "Evan Mobley",
+                "Position": "PF",
+                "Updated": "Wed, Dec 13",
+                "Injury": "Knee",
+                "Injury Status": "Expected to be out until at least Dec 16"
             },
             {
                 "Player": "Ricky Rubio",
@@ -526,9 +564,9 @@
                     "Donovan Mitchell"
                 ],
                 [
+                    "Craig Porter Jr.",
                     "Ty Jerome",
                     "Caris LeVert",
-                    "Craig Porter Jr.",
                     "Ricky Rubio"
                 ]
             ],
@@ -541,6 +579,7 @@
                 ],
                 [
                     "Max Strus",
+                    "Craig Porter Jr.",
                     "Ty Jerome",
                     "Isaac Okoro",
                     "Sam Merrill",
@@ -557,8 +596,8 @@
                 [
                     "Caris LeVert",
                     "Georges Niang",
-                    "Emoni Bates",
-                    "Dean Wade"
+                    "Dean Wade",
+                    "Emoni Bates"
                 ]
             ],
             "Power Forward": [
@@ -572,6 +611,7 @@
                     "Dean Wade",
                     "Isaac Okoro",
                     "Max Strus",
+                    "Emoni Bates",
                     "Isaiah Mobley"
                 ]
             ],
@@ -580,12 +620,12 @@
                     "Jarrett Allen"
                 ],
                 [
-                    "Damian Jones"
+                    "Dean Wade"
                 ],
                 [
                     "Tristan Thompson",
                     "Evan Mobley",
-                    "Dean Wade",
+                    "Damian Jones",
                     "Isaiah Mobley"
                 ]
             ]
@@ -594,11 +634,46 @@
     "Dallas": {
         "Injuries": [
             {
+                "Player": "Maxi Kleber",
+                "Position": "PF",
+                "Updated": "Wed, Dec 13",
+                "Injury": "Toe",
+                "Injury Status": "Expected to be out until at least Dec 16"
+            },
+            {
+                "Player": "Tim Hardaway Jr.",
+                "Position": "SG",
+                "Updated": "Wed, Dec 13",
+                "Injury": "Back",
+                "Injury Status": "Game Time Decision"
+            },
+            {
                 "Player": "Kyrie Irving",
                 "Position": "PG",
-                "Updated": "Mon, Oct 30",
-                "Injury": "Foot",
-                "Injury Status": "Expected to be out until at least Nov 1"
+                "Updated": "Wed, Dec 13",
+                "Injury": "Heel",
+                "Injury Status": "Expected to be out until at least Dec 16"
+            },
+            {
+                "Player": "Derrick Jones Jr.",
+                "Position": "SF",
+                "Updated": "Tue, Dec 12",
+                "Injury": "Quadriceps",
+                "Injury Status": "Game Time Decision"
+            },
+            {
+                "Player": "Seth Curry",
+                "Position": "SG",
+                "Updated": "Tue, Dec 12",
+                "Injury": "Ankle",
+                "Injury Status": "Game Time Decision"
+            },
+            {
+                "Player": "Josh Green",
+                "Position": "SG",
+                "Updated": "Tue, Dec 5",
+                "Injury": "Elbow",
+                "Injury Status": "Expected to be out until at least Dec 19"
             }
         ],
         "Depth Chart": {
@@ -626,37 +701,39 @@
                     "Seth Curry",
                     "Jaden Hardy",
                     "Dante Exum",
+                    "Josh Green",
                     "AJ Lawson",
-                    "Josh Green"
+                    "Dexter Dennis"
                 ]
             ],
             "Small Forward": [
                 [
-                    "Grant Williams"
-                ],
-                [
                     "Josh Green"
                 ],
                 [
+                    "Derrick Jones Jr."
+                ],
+                [
+                    "Dante Exum",
                     "Tim Hardaway Jr.",
                     "Olivier-Maxence Prosper",
-                    "Dante Exum",
-                    "Derrick Jones Jr.",
+                    "Grant Williams",
                     "AJ Lawson",
-                    "Greg Brown"
+                    "Greg Brown",
+                    "Dexter Dennis"
                 ]
             ],
             "Power Forward": [
                 [
-                    "Derrick Jones Jr."
+                    "Grant Williams"
                 ],
                 [
                     "Maxi Kleber"
                 ],
                 [
-                    "Grant Williams",
                     "Josh Green",
                     "Olivier-Maxence Prosper",
+                    "Derrick Jones Jr.",
                     "Markieff Morris",
                     "Greg Brown"
                 ]
@@ -680,18 +757,32 @@
     "Denver": {
         "Injuries": [
             {
+                "Player": "Kentavious Caldwell-Pope",
+                "Position": "SG",
+                "Updated": "Wed, Dec 13",
+                "Injury": "Concussion",
+                "Injury Status": "Expected to be out until at least Dec 16"
+            },
+            {
                 "Player": "Jay Huff",
                 "Position": "C",
-                "Updated": "Mon, Oct 30",
-                "Injury": "Ribs",
-                "Injury Status": "Expected to be out until at least Nov 1"
+                "Updated": "Tue, Dec 12",
+                "Injury": "Leg",
+                "Injury Status": "Game Time Decision"
+            },
+            {
+                "Player": "Jamal Murray",
+                "Position": "PG",
+                "Updated": "Tue, Dec 12",
+                "Injury": "Ankle",
+                "Injury Status": "Game Time Decision"
             },
             {
                 "Player": "Vlatko Cancar",
                 "Position": "SF",
-                "Updated": "Thu, Aug 24",
+                "Updated": "Sun, Nov 19",
                 "Injury": "Knee",
-                "Injury Status": "Expected to be out until at least Apr 1"
+                "Injury Status": "Expected to be out until at least Apr 2"
             }
         ],
         "Depth Chart": {
@@ -703,9 +794,9 @@
                     "Reggie Jackson"
                 ],
                 [
+                    "Collin Gillespie",
                     "Jalen Pickett",
-                    "Christian Braun",
-                    "Collin Gillespie"
+                    "Christian Braun"
                 ]
             ],
             "Shooting Guard": [
@@ -718,9 +809,9 @@
                 [
                     "Julian Strawther",
                     "Justin Holiday",
-                    "Reggie Jackson",
                     "Jamal Murray",
-                    "Jalen Pickett"
+                    "Jalen Pickett",
+                    "Reggie Jackson"
                 ]
             ],
             "Small Forward": [
@@ -728,15 +819,15 @@
                     "Michael Porter Jr."
                 ],
                 [
-                    "Christian Braun"
+                    "Julian Strawther"
                 ],
                 [
                     "Justin Holiday",
-                    "Julian Strawther",
+                    "Christian Braun",
+                    "Kentavious Caldwell-Pope",
                     "Hunter Tyson",
                     "Peyton Watson",
                     "Aaron Gordon",
-                    "Kentavious Caldwell-Pope",
                     "Braxton Key",
                     "Vlatko Cancar"
                 ]
@@ -749,10 +840,10 @@
                     "Peyton Watson"
                 ],
                 [
-                    "Hunter Tyson",
                     "Michael Porter Jr.",
-                    "Zeke Nnaji",
                     "Braxton Key",
+                    "Hunter Tyson",
+                    "Zeke Nnaji",
                     "Jay Huff",
                     "Vlatko Cancar"
                 ]
@@ -775,25 +866,32 @@
     "Detroit": {
         "Injuries": [
             {
+                "Player": "Marvin Bagley III",
+                "Position": "C",
+                "Updated": "Tue, Dec 12",
+                "Injury": "Back",
+                "Injury Status": "Expected to be out until at least Dec 15"
+            },
+            {
+                "Player": "Jared Rhoden",
+                "Position": "SG",
+                "Updated": "Mon, Dec 11",
+                "Injury": "Back",
+                "Injury Status": "Game Time Decision"
+            },
+            {
+                "Player": "Jalen Duren",
+                "Position": "C",
+                "Updated": "Sun, Dec 10",
+                "Injury": "Ankle",
+                "Injury Status": "Expected to be out until at least Dec 28"
+            },
+            {
                 "Player": "Monte Morris",
                 "Position": "PG",
-                "Updated": "Tue, Oct 24",
+                "Updated": "Wed, Nov 22",
                 "Injury": "Quadriceps",
-                "Injury Status": "Expected to be out until at least Nov 14"
-            },
-            {
-                "Player": "Isaiah Livers",
-                "Position": "SF",
-                "Updated": "Tue, Oct 24",
-                "Injury": "Ankle",
-                "Injury Status": "Expected to be out until at least Nov 21"
-            },
-            {
-                "Player": "Bojan Bogdanovic",
-                "Position": "SF",
-                "Updated": "Tue, Oct 24",
-                "Injury": "Calf",
-                "Injury Status": "Expected to be out until at least Nov 24"
+                "Injury Status": "Expected to be out until at least Jan 9"
             }
         ],
         "Depth Chart": {
@@ -802,14 +900,13 @@
                     "Killian Hayes"
                 ],
                 [
-                    "Monte Morris"
+                    "Jaden Ivey"
                 ],
                 [
                     "Marcus Sasser",
-                    "Jaden Ivey",
                     "Cade Cunningham",
-                    "Ausar Thompson",
-                    "Alec Burks"
+                    "Alec Burks",
+                    "Monte Morris"
                 ]
             ],
             "Shooting Guard": [
@@ -817,34 +914,37 @@
                     "Cade Cunningham"
                 ],
                 [
-                    "Jaden Ivey"
-                ],
-                [
-                    "Alec Burks",
-                    "Joe Harris",
-                    "Ausar Thompson",
-                    "Marcus Sasser",
-                    "Jared Rhoden",
-                    "Malcolm Cazalon",
-                    "Stanley Umude",
-                    "Bojan Bogdanovic",
-                    "Isaiah Livers"
-                ]
-            ],
-            "Small Forward": [
-                [
-                    "Ausar Thompson"
-                ],
-                [
                     "Alec Burks"
                 ],
                 [
                     "Joe Harris",
-                    "Jared Rhoden",
-                    "Malcolm Cazalon",
+                    "Marcus Sasser",
+                    "Jaden Ivey",
                     "Stanley Umude",
                     "Bojan Bogdanovic",
+                    "Isaiah Livers",
+                    "Ausar Thompson",
+                    "Killian Hayes",
+                    "Jared Rhoden",
+                    "Malcolm Cazalon"
+                ]
+            ],
+            "Small Forward": [
+                [
+                    "Bojan Bogdanovic"
+                ],
+                [
                     "Isaiah Livers"
+                ],
+                [
+                    "Ausar Thompson",
+                    "Alec Burks",
+                    "Cade Cunningham",
+                    "Joe Harris",
+                    "Stanley Umude",
+                    "Kevin Knox II",
+                    "Jared Rhoden",
+                    "Malcolm Cazalon"
                 ]
             ],
             "Power Forward": [
@@ -852,14 +952,15 @@
                     "Isaiah Stewart"
                 ],
                 [
-                    "Joe Harris"
+                    "Ausar Thompson"
                 ],
                 [
-                    "Ausar Thompson",
-                    "Marvin Bagley III",
-                    "Jared Rhoden",
                     "Isaiah Livers",
-                    "Bojan Bogdanovic"
+                    "Bojan Bogdanovic",
+                    "Kevin Knox II",
+                    "Joe Harris",
+                    "Marvin Bagley III",
+                    "Jared Rhoden"
                 ]
             ],
             "Center": [
@@ -867,10 +968,10 @@
                     "Jalen Duren"
                 ],
                 [
-                    "Marvin Bagley III"
+                    "James Wiseman"
                 ],
                 [
-                    "James Wiseman",
+                    "Marvin Bagley III",
                     "Isaiah Stewart"
                 ]
             ]
@@ -879,18 +980,18 @@
     "Golden St.": {
         "Injuries": [
             {
-                "Player": "Jonathan Kuminga",
+                "Player": "Draymond Green",
                 "Position": "PF",
-                "Updated": "Mon, Oct 30",
-                "Injury": "Knee",
-                "Injury Status": "Expected to be out until at least Nov 1"
+                "Updated": "Wed, Dec 13",
+                "Injury": "Suspension",
+                "Injury Status": "Expected to be out until at least Dec 14"
             },
             {
-                "Player": "Klay Thompson",
-                "Position": "SG",
-                "Updated": "Mon, Oct 30",
-                "Injury": "Knee",
-                "Injury Status": "Expected to be out until at least Nov 1"
+                "Player": "Gary Payton II",
+                "Position": "PG",
+                "Updated": "Thu, Dec 7",
+                "Injury": "Calf",
+                "Injury Status": "Expected to be out until at least Dec 16"
             }
         ],
         "Depth Chart": {
@@ -903,9 +1004,9 @@
                 ],
                 [
                     "Cory Joseph",
-                    "Gary Payton II",
                     "Brandin Podziemski",
-                    "Lester Quinones"
+                    "Lester Quinones",
+                    "Gary Payton II"
                 ]
             ],
             "Shooting Guard": [
@@ -916,13 +1017,13 @@
                     "Moses Moody"
                 ],
                 [
-                    "Stephen Curry",
                     "Brandin Podziemski",
-                    "Gary Payton II",
+                    "Stephen Curry",
                     "Lester Quinones",
                     "Cory Joseph",
                     "Andrew Wiggins",
-                    "Jerome Robinson"
+                    "Jerome Robinson",
+                    "Gary Payton II"
                 ]
             ],
             "Small Forward": [
@@ -930,13 +1031,14 @@
                     "Andrew Wiggins"
                 ],
                 [
-                    "Gary Payton II"
+                    "Moses Moody"
                 ],
                 [
                     "Klay Thompson",
                     "Jonathan Kuminga",
-                    "Moses Moody",
-                    "Jerome Robinson"
+                    "Gui Santos",
+                    "Jerome Robinson",
+                    "Gary Payton II"
                 ]
             ],
             "Power Forward": [
@@ -950,6 +1052,7 @@
                     "Andrew Wiggins",
                     "Dario Saric",
                     "Trayce Jackson-Davis",
+                    "Gui Santos",
                     "Usman Garuba"
                 ]
             ],
@@ -972,25 +1075,18 @@
     "Houston": {
         "Injuries": [
             {
-                "Player": "Tari Eason",
-                "Position": "PF",
-                "Updated": "Sun, Oct 29",
-                "Injury": "Lower Leg",
-                "Injury Status": "Expected to be out until at least Nov 6"
-            },
-            {
-                "Player": "Jock Landale",
-                "Position": "C",
-                "Updated": "Sun, Oct 29",
-                "Injury": "Concussion",
-                "Injury Status": "Game Time Decision"
+                "Player": "Amen Thompson",
+                "Position": "PG",
+                "Updated": "Wed, Dec 13",
+                "Injury": "Illness",
+                "Injury Status": "Expected to be out until at least Dec 15"
             },
             {
                 "Player": "Victor Oladipo",
                 "Position": "SG",
-                "Updated": "Wed, Oct 25",
+                "Updated": "Tue, Dec 12",
                 "Injury": "Knee",
-                "Injury Status": "Expected to be out until at least Nov 17"
+                "Injury Status": "Expected to be out until at least Dec 15"
             }
         ],
         "Depth Chart": {
@@ -999,10 +1095,10 @@
                     "Fred VanVleet"
                 ],
                 [
-                    "Amen Thompson"
+                    "Aaron Holiday"
                 ],
                 [
-                    "Aaron Holiday",
+                    "Amen Thompson",
                     "Jae'Sean Tate",
                     "Victor Oladipo"
                 ]
@@ -1012,13 +1108,13 @@
                     "Jalen Green"
                 ],
                 [
-                    "Reggie Bullock"
+                    "Amen Thompson"
                 ],
                 [
-                    "Amen Thompson",
+                    "Jae'Sean Tate",
+                    "Reggie Bullock",
                     "Dillon Brooks",
                     "Aaron Holiday",
-                    "Jae'Sean Tate",
                     "Fred VanVleet",
                     "Jeenathan Williams",
                     "Nate Hinton",
@@ -1030,17 +1126,17 @@
                     "Dillon Brooks"
                 ],
                 [
-                    "Cam Whitmore"
+                    "Jae'Sean Tate"
                 ],
                 [
-                    "Jae'Sean Tate",
+                    "Tari Eason",
+                    "Cam Whitmore",
                     "Reggie Bullock",
                     "Amen Thompson",
-                    "Tari Eason",
                     "Jeff Green",
+                    "Jeenathan Williams",
                     "Nate Hinton",
-                    "Jermaine Samuels",
-                    "Jeenathan Williams"
+                    "Jermaine Samuels"
                 ]
             ],
             "Power Forward": [
@@ -1063,13 +1159,106 @@
                     "Alperen Sengun"
                 ],
                 [
-                    "Jock Landale"
+                    "Jeff Green"
                 ],
                 [
+                    "Jock Landale",
                     "Boban Marjanovic",
-                    "Jeff Green",
                     "Jabari Smith",
                     "Tari Eason"
+                ]
+            ]
+        }
+    },
+    "Indiana": {
+        "Injuries": [
+            {
+                "Player": "Jalen Smith",
+                "Position": "PF",
+                "Updated": "Wed, Dec 13",
+                "Injury": "Heel",
+                "Injury Status": "Expected to be out until at least Dec 18"
+            },
+            {
+                "Player": "Andrew Nembhard",
+                "Position": "PG",
+                "Updated": "Sat, Dec 9",
+                "Injury": "Knee",
+                "Injury Status": "Expected to be out until at least Dec 18"
+            }
+        ],
+        "Depth Chart": {
+            "Point Guard": [
+                [
+                    "Tyrese Haliburton"
+                ],
+                [
+                    "T.J. McConnell"
+                ],
+                [
+                    "Andrew Nembhard",
+                    "Bruce Brown",
+                    "Isaiah Wong"
+                ]
+            ],
+            "Shooting Guard": [
+                [
+                    "Buddy Hield"
+                ],
+                [
+                    "Andrew Nembhard"
+                ],
+                [
+                    "Bennedict Mathurin",
+                    "Aaron Nesmith",
+                    "Bruce Brown",
+                    "Ben Sheppard",
+                    "Tyrese Haliburton",
+                    "Isaiah Wong",
+                    "Kendall Brown"
+                ]
+            ],
+            "Small Forward": [
+                [
+                    "Bruce Brown"
+                ],
+                [
+                    "Bennedict Mathurin"
+                ],
+                [
+                    "Buddy Hield",
+                    "Aaron Nesmith",
+                    "Jordan Nwora",
+                    "Kendall Brown"
+                ]
+            ],
+            "Power Forward": [
+                [
+                    "Obi Toppin"
+                ],
+                [
+                    "Aaron Nesmith"
+                ],
+                [
+                    "Jarace Walker",
+                    "Jordan Nwora",
+                    "Jalen Smith",
+                    "Bruce Brown",
+                    "Isaiah Jackson"
+                ]
+            ],
+            "Center": [
+                [
+                    "Myles Turner"
+                ],
+                [
+                    "Jalen Smith"
+                ],
+                [
+                    "Isaiah Jackson",
+                    "Obi Toppin",
+                    "Oscar Tshiebwe",
+                    "Jarace Walker"
                 ]
             ]
         }
@@ -1077,62 +1266,74 @@
     "L.A. Clippers": {
         "Injuries": [
             {
-                "Player": "Marcus Morris",
-                "Position": "PF",
-                "Updated": "Mon, Oct 30",
-                "Injury": "Personal",
-                "Injury Status": "Expected to be out until at least Nov 1"
-            },
-            {
-                "Player": "Ivica Zubac",
-                "Position": "C",
-                "Updated": "Mon, Oct 30",
-                "Injury": "Quadriceps",
-                "Injury Status": "Game Time Decision"
-            },
-            {
-                "Player": "Terance Mann",
-                "Position": "SG",
-                "Updated": "Mon, Oct 30",
-                "Injury": "Ankle",
-                "Injury Status": "Expected to be out until at least Nov 1"
-            },
-            {
-                "Player": "Norman Powell",
-                "Position": "SG",
-                "Updated": "Mon, Oct 30",
-                "Injury": "Foot",
-                "Injury Status": "Game Time Decision"
-            },
-            {
                 "Player": "Brandon Boston Jr.",
                 "Position": "SG",
-                "Updated": "Sat, Oct 28",
-                "Injury": "Quadriceps",
-                "Injury Status": "Expected to be out until at least Nov 12"
+                "Updated": "Wed, Dec 13",
+                "Injury": "Illness",
+                "Injury Status": "Game Time Decision"
+            },
+            {
+                "Player": "Moussa Diabate",
+                "Position": "PF",
+                "Updated": "Wed, Dec 13",
+                "Injury": "Hip",
+                "Injury Status": "Game Time Decision"
+            },
+            {
+                "Player": "Paul George",
+                "Position": "SF",
+                "Updated": "Wed, Dec 13",
+                "Injury": "Groin",
+                "Injury Status": "Game Time Decision"
             },
             {
                 "Player": "Joshua Primo",
                 "Position": "SG",
-                "Updated": "Fri, Sep 29",
-                "Injury": "Suspension",
-                "Injury Status": "Expected to be out until at least Nov 1"
+                "Updated": "Sun, Dec 10",
+                "Injury": "Knee",
+                "Injury Status": "Game Time Decision"
+            },
+            {
+                "Player": "Mason Plumlee",
+                "Position": "C",
+                "Updated": "Sun, Nov 12",
+                "Injury": "Knee",
+                "Injury Status": "Expected to be out until at least Jan 12"
             }
         ],
         "Depth Chart": {
             "Point Guard": [
                 [
+                    "James Harden"
+                ],
+                [
                     "Russell Westbrook"
                 ],
                 [
-                    "Bones Hyland"
-                ],
-                [
+                    "Bones Hyland",
                     "Terance Mann",
-                    "Norman Powell"
+                    "Norman Powell",
+                    "Xavier Moon"
                 ]
             ],
             "Shooting Guard": [
+                [
+                    "Terance Mann"
+                ],
+                [
+                    "Norman Powell"
+                ],
+                [
+                    "Bones Hyland",
+                    "Paul George",
+                    "James Harden",
+                    "Amir Coffey",
+                    "Joshua Primo",
+                    "Jordan Miller",
+                    "Brandon Boston Jr."
+                ]
+            ],
+            "Small Forward": [
                 [
                     "Paul George"
                 ],
@@ -1140,34 +1341,13 @@
                     "Norman Powell"
                 ],
                 [
-                    "Terance Mann",
-                    "Bones Hyland",
-                    "Amir Coffey",
-                    "Brandon Boston Jr.",
-                    "Kenyon Martin Jr.",
-                    "Jordan Miller",
-                    "Joshua Primo"
-                ]
-            ],
-            "Small Forward": [
-                [
-                    "Terance Mann"
-                ],
-                [
-                    "Kenyon Martin Jr."
-                ],
-                [
                     "Kawhi Leonard",
-                    "Paul George",
-                    "Marcus Morris",
                     "Amir Coffey",
-                    "Norman Powell",
-                    "Nicolas Batum",
+                    "Terance Mann",
                     "Kobe Brown",
-                    "Brandon Boston Jr.",
-                    "Robert Covington",
+                    "Joshua Primo",
                     "Jordan Miller",
-                    "Joshua Primo"
+                    "Brandon Boston Jr."
                 ]
             ],
             "Power Forward": [
@@ -1175,18 +1355,16 @@
                     "Kawhi Leonard"
                 ],
                 [
-                    "Robert Covington"
+                    "Kobe Brown"
                 ],
                 [
-                    "Nicolas Batum",
+                    "P.J. Tucker",
                     "Terance Mann",
-                    "Marcus Morris",
-                    "Kenyon Martin Jr.",
-                    "Paul George",
-                    "Kobe Brown",
                     "Amir Coffey",
-                    "Brandon Boston Jr.",
-                    "Moussa Diabate"
+                    "Paul George",
+                    "Moussa Diabate",
+                    "Daniel Theis",
+                    "Brandon Boston Jr."
                 ]
             ],
             "Center": [
@@ -1194,13 +1372,13 @@
                     "Ivica Zubac"
                 ],
                 [
-                    "Mason Plumlee"
+                    "Daniel Theis"
                 ],
                 [
-                    "Robert Covington",
-                    "Nicolas Batum",
+                    "P.J. Tucker",
+                    "Moussa Diabate",
                     "Kawhi Leonard",
-                    "Moussa Diabate"
+                    "Mason Plumlee"
                 ]
             ]
         }
@@ -1210,37 +1388,37 @@
             {
                 "Player": "LeBron James",
                 "Position": "SF",
-                "Updated": "Mon, Oct 30",
-                "Injury": "Ankle",
+                "Updated": "Wed, Dec 13",
+                "Injury": "Calf",
                 "Injury Status": "Game Time Decision"
-            },
-            {
-                "Player": "Cam Reddish",
-                "Position": "SF",
-                "Updated": "Mon, Oct 30",
-                "Injury": "Foot",
-                "Injury Status": "Game Time Decision"
-            },
-            {
-                "Player": "Rui Hachimura",
-                "Position": "PF",
-                "Updated": "Mon, Oct 30",
-                "Injury": "Eye",
-                "Injury Status": "Expected to be out until at least Nov 1"
-            },
-            {
-                "Player": "Jarred Vanderbilt",
-                "Position": "PF",
-                "Updated": "Fri, Oct 27",
-                "Injury": "Heel",
-                "Injury Status": "Expected to be out until at least Nov 12"
             },
             {
                 "Player": "Jalen Hood-Schifino",
                 "Position": "SG",
-                "Updated": "Mon, Oct 23",
+                "Updated": "Wed, Dec 13",
+                "Injury": "Back",
+                "Injury Status": "Expected to be out until at least Dec 15"
+            },
+            {
+                "Player": "Gabe Vincent",
+                "Position": "PG",
+                "Updated": "Wed, Dec 13",
                 "Injury": "Knee",
-                "Injury Status": "Expected to be out until at least Nov 4"
+                "Injury Status": "Expected to be out until at least Dec 15"
+            },
+            {
+                "Player": "Anthony Davis",
+                "Position": "PF",
+                "Updated": "Wed, Dec 13",
+                "Injury": "Hip",
+                "Injury Status": "Game Time Decision"
+            },
+            {
+                "Player": "Jarred Vanderbilt",
+                "Position": "PF",
+                "Updated": "Tue, Dec 12",
+                "Injury": "Back",
+                "Injury Status": "Game Time Decision"
             }
         ],
         "Depth Chart": {
@@ -1252,36 +1430,35 @@
                     "Gabe Vincent"
                 ],
                 [
-                    "Jalen Hood-Schifino",
-                    "Austin Reaves"
+                    "Austin Reaves",
+                    "Jalen Hood-Schifino"
                 ]
             ],
             "Shooting Guard": [
                 [
+                    "Cam Reddish"
+                ],
+                [
                     "Austin Reaves"
                 ],
                 [
-                    "D'Angelo Russell"
-                ],
-                [
-                    "Gabe Vincent",
-                    "Cam Reddish",
-                    "Jalen Hood-Schifino",
                     "Max Christie",
+                    "Jalen Hood-Schifino",
+                    "Gabe Vincent",
                     "D'Moi Hodge"
                 ]
             ],
             "Small Forward": [
                 [
-                    "LeBron James"
-                ],
-                [
                     "Taurean Prince"
                 ],
                 [
-                    "Cam Reddish",
+                    "Max Christie"
+                ],
+                [
                     "Austin Reaves",
-                    "Max Christie",
+                    "LeBron James",
+                    "Cam Reddish",
                     "Maxwell Lewis",
                     "D'Moi Hodge",
                     "Alex Fudge"
@@ -1289,16 +1466,16 @@
             ],
             "Power Forward": [
                 [
-                    "Jarred Vanderbilt"
+                    "LeBron James"
                 ],
                 [
-                    "Taurean Prince"
+                    "Rui Hachimura"
                 ],
                 [
-                    "Rui Hachimura",
-                    "LeBron James",
-                    "Anthony Davis",
                     "Christian Wood",
+                    "Anthony Davis",
+                    "Jarred Vanderbilt",
+                    "Taurean Prince",
                     "Jaxson Hayes",
                     "Maxwell Lewis",
                     "Alex Fudge"
@@ -1309,11 +1486,11 @@
                     "Anthony Davis"
                 ],
                 [
-                    "Christian Wood"
+                    "Jarred Vanderbilt"
                 ],
                 [
                     "Jaxson Hayes",
-                    "Jarred Vanderbilt",
+                    "Christian Wood",
                     "Colin Castleton",
                     "Rui Hachimura",
                     "LeBron James"
@@ -1324,18 +1501,25 @@
     "Memphis": {
         "Injuries": [
             {
-                "Player": "Santi Aldama",
-                "Position": "PF",
-                "Updated": "Sun, Oct 29",
-                "Injury": "Ankle",
-                "Injury Status": "Expected to be out until at least Nov 1"
+                "Player": "Desmond Bane",
+                "Position": "SG",
+                "Updated": "Wed, Dec 13",
+                "Injury": "Illness",
+                "Injury Status": "Expected to be out until at least Dec 15"
+            },
+            {
+                "Player": "Marcus Smart",
+                "Position": "PG",
+                "Updated": "Wed, Dec 13",
+                "Injury": "Foot",
+                "Injury Status": "Expected to be out until at least Dec 18"
             },
             {
                 "Player": "Luke Kennard",
                 "Position": "SG",
-                "Updated": "Sun, Oct 29",
-                "Injury": "Concussion",
-                "Injury Status": "Expected to be out until at least Nov 1"
+                "Updated": "Sun, Dec 3",
+                "Injury": "Knee",
+                "Injury Status": "Expected to be out until at least Dec 18"
             },
             {
                 "Player": "Steven Adams",
@@ -1355,75 +1539,81 @@
         "Depth Chart": {
             "Point Guard": [
                 [
-                    "Marcus Smart"
+                    "Ja Morant"
                 ],
                 [
                     "Derrick Rose"
                 ],
                 [
+                    "Marcus Smart",
                     "Jacob Gilyard",
+                    "Desmond Bane",
+                    "Jaylen Nowell",
                     "John Konchar",
-                    "Luke Kennard",
-                    "Ja Morant"
+                    "Luke Kennard"
                 ]
             ],
             "Shooting Guard": [
                 [
-                    "Desmond Bane"
+                    "Marcus Smart"
                 ],
                 [
                     "Luke Kennard"
                 ],
                 [
-                    "Derrick Rose",
-                    "Marcus Smart",
+                    "Jaylen Nowell",
+                    "Desmond Bane",
                     "John Konchar",
                     "Ziaire Williams",
-                    "David Roddy",
-                    "Vince Williams Jr."
+                    "Vince Williams Jr.",
+                    "Derrick Rose"
                 ]
             ],
             "Small Forward": [
                 [
-                    "Ziaire Williams"
+                    "Desmond Bane"
+                ],
+                [
+                    "John Konchar"
+                ],
+                [
+                    "Vince Williams Jr.",
+                    "David Roddy",
+                    "Santi Aldama",
+                    "Ziaire Williams",
+                    "Jake LaRavia",
+                    "Luke Kennard",
+                    "Gregory Jackson"
+                ]
+            ],
+            "Power Forward": [
+                [
+                    "Santi Aldama"
                 ],
                 [
                     "David Roddy"
                 ],
                 [
-                    "John Konchar",
+                    "Jaren Jackson Jr.",
                     "Jake LaRavia",
-                    "Luke Kennard",
-                    "Desmond Bane",
-                    "Vince Williams Jr."
-                ]
-            ],
-            "Power Forward": [
-                [
-                    "Jaren Jackson Jr."
-                ],
-                [
-                    "Santi Aldama"
-                ],
-                [
-                    "Jake LaRavia",
-                    "David Roddy",
                     "Kenneth Lofton Jr.",
                     "Xavier Tillman",
                     "Ziaire Williams",
+                    "Gregory Jackson",
                     "Brandon Clarke"
                 ]
             ],
             "Center": [
                 [
-                    "Xavier Tillman"
-                ],
-                [
                     "Jaren Jackson Jr."
                 ],
                 [
-                    "Santi Aldama",
+                    "Xavier Tillman"
+                ],
+                [
+                    "Bismack Biyombo",
                     "Kenneth Lofton Jr.",
+                    "Santi Aldama",
                     "Brandon Clarke",
                     "Steven Adams"
                 ]
@@ -1433,25 +1623,39 @@
     "Miami": {
         "Injuries": [
             {
-                "Player": "Bam Adebayo",
-                "Position": "C",
-                "Updated": "Mon, Oct 30",
-                "Injury": "Hip",
-                "Injury Status": "Expected to be out until at least Nov 1"
+                "Player": "Josh Richardson",
+                "Position": "SG",
+                "Updated": "Wed, Dec 13",
+                "Injury": "Head",
+                "Injury Status": "Expected to be out until at least Dec 14"
             },
             {
-                "Player": "Caleb Martin",
-                "Position": "SF",
-                "Updated": "Mon, Oct 30",
-                "Injury": "Knee",
-                "Injury Status": "Expected to be out until at least Nov 1"
+                "Player": "Tyler Herro",
+                "Position": "PG",
+                "Updated": "Tue, Dec 12",
+                "Injury": "Ankle",
+                "Injury Status": "Expected to be out until at least Dec 14"
             },
             {
                 "Player": "Haywood Highsmith",
                 "Position": "SF",
-                "Updated": "Thu, Oct 19",
+                "Updated": "Tue, Dec 12",
+                "Injury": "Back",
+                "Injury Status": "Expected to be out until at least Dec 14"
+            },
+            {
+                "Player": "Bam Adebayo",
+                "Position": "C",
+                "Updated": "Tue, Dec 12",
+                "Injury": "Hip",
+                "Injury Status": "Expected to be out until at least Dec 14"
+            },
+            {
+                "Player": "Dru Smith",
+                "Position": "SG",
+                "Updated": "Fri, Nov 24",
                 "Injury": "Knee",
-                "Injury Status": "Expected to be out until at least Nov 3"
+                "Injury Status": "Out for the season"
             }
         ],
         "Depth Chart": {
@@ -1460,11 +1664,12 @@
                     "Kyle Lowry"
                 ],
                 [
-                    "Tyler Herro"
+                    "Josh Richardson"
                 ],
                 [
-                    "Dru Smith",
-                    "R.J. Hampton"
+                    "Tyler Herro",
+                    "R.J. Hampton",
+                    "Dru Smith"
                 ]
             ],
             "Shooting Guard": [
@@ -1472,47 +1677,47 @@
                     "Tyler Herro"
                 ],
                 [
-                    "Josh Richardson"
+                    "Duncan Robinson"
                 ],
                 [
-                    "Duncan Robinson",
                     "Caleb Martin",
-                    "Dru Smith",
+                    "Josh Richardson",
                     "Jamal Cain",
+                    "Jaime Jaquez Jr.",
                     "R.J. Hampton",
-                    "Jaime Jaquez Jr."
+                    "Dru Smith"
                 ]
             ],
             "Small Forward": [
                 [
-                    "Josh Richardson"
-                ],
-                [
                     "Jimmy Butler"
                 ],
                 [
-                    "Caleb Martin",
+                    "Caleb Martin"
+                ],
+                [
                     "Jaime Jaquez Jr.",
                     "Duncan Robinson",
+                    "Josh Richardson",
+                    "Jamal Cain",
                     "Haywood Highsmith",
                     "Tyler Herro",
                     "Nikola Jovic",
-                    "Jamal Cain",
-                    "R.J. Hampton",
-                    "Cole Swider"
+                    "Cole Swider",
+                    "R.J. Hampton"
                 ]
             ],
             "Power Forward": [
                 [
-                    "Jimmy Butler"
+                    "Haywood Highsmith"
                 ],
                 [
-                    "Kevin Love"
+                    "Jaime Jaquez Jr."
                 ],
                 [
-                    "Haywood Highsmith",
+                    "Jimmy Butler",
+                    "Kevin Love",
                     "Nikola Jovic",
-                    "Jaime Jaquez Jr.",
                     "Caleb Martin",
                     "Duncan Robinson",
                     "Jamal Cain",
@@ -1524,11 +1729,11 @@
                     "Bam Adebayo"
                 ],
                 [
-                    "Thomas Bryant"
+                    "Kevin Love"
                 ],
                 [
                     "Orlando Robinson",
-                    "Kevin Love",
+                    "Thomas Bryant",
                     "Nikola Jovic"
                 ]
             ]
@@ -1537,11 +1742,25 @@
     "Milwaukee": {
         "Injuries": [
             {
-                "Player": "MarJon Beauchamp",
+                "Player": "Pat Connaughton",
                 "Position": "SG",
-                "Updated": "Mon, Oct 30",
-                "Injury": "Illness",
-                "Injury Status": "Expected to be out until at least Nov 1"
+                "Updated": "Tue, Dec 12",
+                "Injury": "Ankle",
+                "Injury Status": "Expected to be out until at least Dec 16"
+            },
+            {
+                "Player": "Chris Livingston",
+                "Position": "SF",
+                "Updated": "Tue, Dec 12",
+                "Injury": "Ankle",
+                "Injury Status": "Expected to be out until at least Dec 16"
+            },
+            {
+                "Player": "Jae Crowder",
+                "Position": "PF",
+                "Updated": "Mon, Nov 13",
+                "Injury": "Groin",
+                "Injury Status": "Expected to be out until at least Jan 17"
             }
         ],
         "Depth Chart": {
@@ -1554,9 +1773,10 @@
                 ],
                 [
                     "AJ Green",
+                    "Andre Jackson Jr.",
+                    "MarJon Beauchamp",
                     "TyTy Washington Jr.",
-                    "Lindell Wigginton",
-                    "Andre Jackson Jr."
+                    "Lindell Wigginton"
                 ]
             ],
             "Shooting Guard": [
@@ -1568,9 +1788,9 @@
                 ],
                 [
                     "Khris Middleton",
-                    "Pat Connaughton",
-                    "Cameron Payne",
                     "AJ Green",
+                    "Cameron Payne",
+                    "Pat Connaughton",
                     "Andre Jackson Jr."
                 ]
             ],
@@ -1582,13 +1802,13 @@
                     "Pat Connaughton"
                 ],
                 [
-                    "Jae Crowder",
+                    "Andre Jackson Jr.",
                     "MarJon Beauchamp",
                     "Malik Beasley",
-                    "Andre Jackson Jr.",
                     "Giannis Antetokounmpo",
                     "Thanasis Antetokounmpo",
-                    "Chris Livingston"
+                    "Chris Livingston",
+                    "Jae Crowder"
                 ]
             ],
             "Power Forward": [
@@ -1596,14 +1816,14 @@
                     "Giannis Antetokounmpo"
                 ],
                 [
-                    "Jae Crowder"
+                    "Bobby Portis"
                 ],
                 [
-                    "Bobby Portis",
                     "Pat Connaughton",
                     "Thanasis Antetokounmpo",
                     "MarJon Beauchamp",
-                    "Chris Livingston"
+                    "Chris Livingston",
+                    "Jae Crowder"
                 ]
             ],
             "Center": [
@@ -1624,6 +1844,27 @@
     },
     "Minnesota": {
         "Injuries": [
+            {
+                "Player": "Jordan McLaughlin",
+                "Position": "PG",
+                "Updated": "Wed, Dec 13",
+                "Injury": "Knee",
+                "Injury Status": "Game Time Decision"
+            },
+            {
+                "Player": "Jaden McDaniels",
+                "Position": "SF",
+                "Updated": "Wed, Dec 13",
+                "Injury": "Ankle",
+                "Injury Status": "Game Time Decision"
+            },
+            {
+                "Player": "Anthony Edwards",
+                "Position": "SG",
+                "Updated": "Tue, Dec 12",
+                "Injury": "Hip",
+                "Injury Status": "Game Time Decision"
+            },
             {
                 "Player": "Jaylen Clark",
                 "Position": "SG",
@@ -1655,10 +1896,10 @@
                     "Nickeil Alexander-Walker"
                 ],
                 [
+                    "Troy Brown Jr.",
                     "Shake Milton",
                     "Wendell Moore Jr.",
                     "Josh Minott",
-                    "Troy Brown Jr.",
                     "Jaylen Clark"
                 ]
             ],
@@ -1667,9 +1908,10 @@
                     "Jaden McDaniels"
                 ],
                 [
-                    "Troy Brown Jr."
+                    "Nickeil Alexander-Walker"
                 ],
                 [
+                    "Troy Brown Jr.",
                     "Kyle Anderson",
                     "Anthony Edwards",
                     "Leonard Miller",
@@ -1686,11 +1928,10 @@
                     "Kyle Anderson"
                 ],
                 [
-                    "Leonard Miller",
                     "Naz Reid",
+                    "Leonard Miller",
                     "Jaden McDaniels",
-                    "Troy Brown Jr.",
-                    "Anthony Edwards"
+                    "Troy Brown Jr."
                 ]
             ],
             "Center": [
@@ -1711,32 +1952,32 @@
     "New Orleans": {
         "Injuries": [
             {
-                "Player": "Naji Marshall",
-                "Position": "SF",
-                "Updated": "Mon, Oct 30",
-                "Injury": "Knee",
-                "Injury Status": "Expected to be out until at least Nov 14"
-            },
-            {
-                "Player": "Brandon Ingram",
-                "Position": "SF",
-                "Updated": "Mon, Oct 30",
-                "Injury": "Knee",
-                "Injury Status": "Expected to be out until at least Nov 1"
-            },
-            {
-                "Player": "Jose Alvarado",
-                "Position": "PG",
-                "Updated": "Tue, Oct 24",
+                "Player": "Zion Williamson",
+                "Position": "PF",
+                "Updated": "Wed, Dec 13",
                 "Injury": "Ankle",
-                "Injury Status": "Expected to be out until at least Nov 8"
+                "Injury Status": "Expected to be out until at least Dec 15"
             },
             {
-                "Player": "Trey Murphy III",
+                "Player": "Dereon Seabron",
+                "Position": "SG",
+                "Updated": "Tue, Dec 12",
+                "Injury": "Undisclosed",
+                "Injury Status": "Game Time Decision"
+            },
+            {
+                "Player": "Matt Ryan",
                 "Position": "SF",
-                "Updated": "Thu, Sep 7",
-                "Injury": "Knee",
-                "Injury Status": "Expected to be out until at least Nov 17"
+                "Updated": "Tue, Dec 12",
+                "Injury": "Elbow",
+                "Injury Status": "Expected to be out until at least Jan 29"
+            },
+            {
+                "Player": "Larry Nance Jr.",
+                "Position": "PF",
+                "Updated": "Thu, Nov 30",
+                "Injury": "Ribs",
+                "Injury Status": "Expected to be out until at least Dec 31"
             }
         ],
         "Depth Chart": {
@@ -1748,8 +1989,9 @@
                     "Jose Alvarado"
                 ],
                 [
-                    "Kira Lewis Jr.",
-                    "Dyson Daniels"
+                    "Dyson Daniels",
+                    "Jordan Hawkins",
+                    "Kira Lewis Jr."
                 ]
             ],
             "Shooting Guard": [
@@ -1757,15 +1999,16 @@
                     "Brandon Ingram"
                 ],
                 [
-                    "Dyson Daniels"
+                    "Trey Murphy III"
                 ],
                 [
-                    "Trey Murphy III",
                     "Jordan Hawkins",
+                    "Naji Marshall",
+                    "Dyson Daniels",
+                    "Dereon Seabron",
                     "Kira Lewis Jr.",
                     "CJ McCollum",
-                    "Naji Marshall",
-                    "Dereon Seabron"
+                    "Matt Ryan"
                 ]
             ],
             "Small Forward": [
@@ -1773,14 +2016,14 @@
                     "Herbert Jones"
                 ],
                 [
-                    "Trey Murphy III"
+                    "Dyson Daniels"
                 ],
                 [
+                    "Trey Murphy III",
                     "Brandon Ingram",
                     "Naji Marshall",
-                    "Dyson Daniels",
                     "Dereon Seabron",
-                    "Kaiser Gates",
+                    "Jordan Hawkins",
                     "Matt Ryan"
                 ]
             ],
@@ -1794,9 +2037,10 @@
                 [
                     "Herbert Jones",
                     "Trey Murphy III",
-                    "Larry Nance Jr.",
+                    "Jeremiah Robinson-Earl",
+                    "Brandon Ingram",
                     "E.J. Liddell",
-                    "Brandon Ingram"
+                    "Larry Nance Jr."
                 ]
             ],
             "Center": [
@@ -1804,111 +2048,106 @@
                     "Jonas Valanciunas"
                 ],
                 [
-                    "Larry Nance Jr."
+                    "Cody Zeller"
                 ],
                 [
-                    "Cody Zeller",
-                    "Zion Williamson"
+                    "Jeremiah Robinson-Earl",
+                    "Zion Williamson",
+                    "E.J. Liddell",
+                    "Larry Nance Jr."
                 ]
             ]
         }
     },
-    "Oklahoma City": {
+    "New York": {
         "Injuries": [
             {
-                "Player": "Kenrich Williams",
-                "Position": "SF",
-                "Updated": "Mon, Oct 30",
-                "Injury": "Back",
-                "Injury Status": "Expected to be out until at least Nov 1"
+                "Player": "Immanuel Quickley",
+                "Position": "PG",
+                "Updated": "Tue, Dec 12",
+                "Injury": "Knee",
+                "Injury Status": "Game Time Decision"
             },
             {
-                "Player": "Jaylin Williams",
+                "Player": "Mitchell Robinson",
                 "Position": "C",
-                "Updated": "Tue, Oct 17",
-                "Injury": "Hamstring",
-                "Injury Status": "Expected to be out until at least Nov 1"
+                "Updated": "Mon, Dec 11",
+                "Injury": "Ankle",
+                "Injury Status": "Expected to be out until at least Feb 6"
             }
         ],
         "Depth Chart": {
             "Point Guard": [
                 [
-                    "Shai Gilgeous-Alexander"
+                    "Jalen Brunson"
                 ],
                 [
-                    "Cason Wallace"
+                    "Immanuel Quickley"
                 ],
                 [
-                    "Josh Giddey",
-                    "Vasilije Micic",
-                    "Tre Mann",
-                    "Jalen Williams"
+                    "Miles McBride",
+                    "Donte DiVincenzo",
+                    "Ryan Arcidiacono"
                 ]
             ],
             "Shooting Guard": [
                 [
-                    "Josh Giddey"
+                    "Donte DiVincenzo"
                 ],
                 [
-                    "Aaron Wiggins"
+                    "Quentin Grimes"
                 ],
                 [
-                    "Cason Wallace",
-                    "Vasilije Micic",
-                    "Isaiah Joe",
-                    "Lindy Waters III",
-                    "Tre Mann",
-                    "Jalen Williams",
-                    "Luguentz Dort",
-                    "Keyontae Johnson",
-                    "Shai Gilgeous-Alexander"
+                    "Immanuel Quickley",
+                    "RJ Barrett",
+                    "Evan Fournier",
+                    "Josh Hart",
+                    "Miles McBride",
+                    "DaQuan Jeffries",
+                    "Ryan Arcidiacono",
+                    "Charlie Brown"
                 ]
             ],
             "Small Forward": [
                 [
-                    "Luguentz Dort"
+                    "RJ Barrett"
                 ],
                 [
-                    "Isaiah Joe"
+                    "Josh Hart"
                 ],
                 [
-                    "Kenrich Williams",
-                    "Aaron Wiggins",
-                    "Jalen Williams",
-                    "Lindy Waters III",
-                    "Ousmane Dieng",
-                    "Keyontae Johnson",
-                    "Josh Giddey",
-                    "Aleksej Pokusevski"
+                    "Donte DiVincenzo",
+                    "Quentin Grimes",
+                    "Evan Fournier",
+                    "DaQuan Jeffries",
+                    "Jaylen Martin",
+                    "Jacob Toppin",
+                    "Charlie Brown"
                 ]
             ],
             "Power Forward": [
                 [
-                    "Jalen Williams"
+                    "Julius Randle"
                 ],
                 [
-                    "Ousmane Dieng"
+                    "Josh Hart"
                 ],
                 [
-                    "Aleksej Pokusevski",
-                    "Chet Holmgren",
-                    "Jaylin Williams",
-                    "Davis Bertans",
-                    "Luguentz Dort",
-                    "Kenrich Williams"
+                    "RJ Barrett",
+                    "Jericho Sims",
+                    "Jacob Toppin"
                 ]
             ],
             "Center": [
                 [
-                    "Chet Holmgren"
+                    "Jericho Sims"
                 ],
                 [
-                    "Jaylin Williams"
+                    "Isaiah Hartenstein"
                 ],
                 [
-                    "Olivier Sarr",
-                    "Aleksej Pokusevski",
-                    "Davis Bertans"
+                    "Julius Randle",
+                    "Mitchell Robinson"
                 ]
             ]
         }
@@ -1916,9 +2155,16 @@
     "Orlando": {
         "Injuries": [
             {
-                "Player": "Kevon Harris",
-                "Position": "SG",
-                "Updated": "Mon, Oct 30",
+                "Player": "Wendell Carter Jr.",
+                "Position": "C",
+                "Updated": "Tue, Dec 12",
+                "Injury": "Finger",
+                "Injury Status": "Game Time Decision"
+            },
+            {
+                "Player": "Markelle Fultz",
+                "Position": "PG",
+                "Updated": "Tue, Dec 12",
                 "Injury": "Knee",
                 "Injury Status": "Game Time Decision"
             }
@@ -1932,8 +2178,8 @@
                     "Cole Anthony"
                 ],
                 [
-                    "Anthony Black",
                     "Jalen Suggs",
+                    "Anthony Black",
                     "Trevelin Queen"
                 ]
             ],
@@ -1962,15 +2208,15 @@
                     "Joe Ingles"
                 ],
                 [
-                    "Jett Howard",
                     "Anthony Black",
-                    "Jalen Suggs",
                     "Caleb Houstan",
-                    "Admiral Schofield",
-                    "Chuma Okeke",
-                    "Kevon Harris",
-                    "Paolo Banchero",
                     "Gary Harris",
+                    "Jett Howard",
+                    "Jalen Suggs",
+                    "Admiral Schofield",
+                    "Kevon Harris",
+                    "Chuma Okeke",
+                    "Paolo Banchero",
                     "Jonathan Isaac"
                 ]
             ],
@@ -1983,8 +2229,8 @@
                 ],
                 [
                     "Joe Ingles",
-                    "Moe Wagner",
                     "Chuma Okeke",
+                    "Moe Wagner",
                     "Caleb Houstan",
                     "Franz Wagner",
                     "Admiral Schofield"
@@ -2008,30 +2254,22 @@
     "Philadelphia": {
         "Injuries": [
             {
-                "Player": "Tyrese Maxey",
-                "Position": "PG",
-                "Updated": "Sun, Oct 29",
-                "Injury": "Hand",
-                "Injury Status": "Game Time Decision"
-            },
-            {
-                "Player": "James Harden",
-                "Position": "PG",
-                "Updated": "Sun, Oct 29",
-                "Injury": "Personal",
+                "Player": "Terquavion Smith",
+                "Position": "SG",
+                "Updated": "Wed, Dec 13",
+                "Injury": "Illness",
                 "Injury Status": "Game Time Decision"
             }
         ],
         "Depth Chart": {
             "Point Guard": [
                 [
-                    "James Harden"
+                    "Tyrese Maxey"
                 ],
                 [
                     "Patrick Beverley"
                 ],
                 [
-                    "Tyrese Maxey",
                     "De'Anthony Melton",
                     "Terquavion Smith",
                     "Javonte Smart"
@@ -2039,19 +2277,18 @@
             ],
             "Shooting Guard": [
                 [
-                    "Tyrese Maxey"
-                ],
-                [
                     "De'Anthony Melton"
                 ],
                 [
-                    "Jaden Springer",
-                    "Kelly Oubre Jr.",
-                    "Danny Green",
+                    "Kelly Oubre Jr."
+                ],
+                [
                     "Furkan Korkmaz",
+                    "Jaden Springer",
                     "Patrick Beverley",
-                    "Terquavion Smith",
                     "Danuel House Jr.",
+                    "Tyrese Maxey",
+                    "Terquavion Smith",
                     "Javonte Smart",
                     "Ricky Council IV"
                 ]
@@ -2061,28 +2298,34 @@
                     "Tobias Harris"
                 ],
                 [
-                    "Danuel House Jr."
+                    "Marcus Morris"
                 ],
                 [
-                    "Danny Green",
                     "Kelly Oubre Jr.",
+                    "Danuel House Jr.",
+                    "Nicolas Batum",
+                    "Robert Covington",
                     "Furkan Korkmaz",
+                    "Kenyon Martin Jr.",
+                    "Jaden Springer",
                     "De'Anthony Melton",
                     "Ricky Council IV"
                 ]
             ],
             "Power Forward": [
                 [
-                    "P.J. Tucker"
+                    "Nicolas Batum"
                 ],
                 [
-                    "Kelly Oubre Jr."
+                    "Tobias Harris"
                 ],
                 [
-                    "Tobias Harris",
-                    "Paul Reed",
+                    "Robert Covington",
+                    "Marcus Morris",
+                    "Kenyon Martin Jr.",
+                    "Kelly Oubre Jr.",
                     "Danuel House Jr.",
-                    "Filip Petrusev"
+                    "Paul Reed"
                 ]
             ],
             "Center": [
@@ -2094,8 +2337,8 @@
                 ],
                 [
                     "Mo Bamba",
-                    "P.J. Tucker",
-                    "Filip Petrusev"
+                    "Robert Covington",
+                    "Nicolas Batum"
                 ]
             ]
         }
@@ -2103,18 +2346,32 @@
     "Phoenix": {
         "Injuries": [
             {
-                "Player": "Bradley Beal",
-                "Position": "SG",
-                "Updated": "Mon, Oct 30",
-                "Injury": "Back",
-                "Injury Status": "Expected to be out until at least Nov 2"
+                "Player": "Nassir Little",
+                "Position": "SF",
+                "Updated": "Wed, Dec 13",
+                "Injury": "Concussion",
+                "Injury Status": "Game Time Decision"
             },
             {
-                "Player": "Devin Booker",
-                "Position": "SG",
-                "Updated": "Sun, Oct 29",
-                "Injury": "Foot",
+                "Player": "Josh Okogie",
+                "Position": "SF",
+                "Updated": "Wed, Dec 13",
+                "Injury": "Hip",
+                "Injury Status": "Expected to be out until at least Dec 15"
+            },
+            {
+                "Player": "Kevin Durant",
+                "Position": "PF",
+                "Updated": "Wed, Dec 13",
+                "Injury": "Ankle",
                 "Injury Status": "Game Time Decision"
+            },
+            {
+                "Player": "Grayson Allen",
+                "Position": "SG",
+                "Updated": "Wed, Dec 13",
+                "Injury": "Groin",
+                "Injury Status": "Expected to be out until at least Dec 15"
             },
             {
                 "Player": "Damion Lee",
@@ -2134,8 +2391,8 @@
                 ],
                 [
                     "Bradley Beal",
+                    "Eric Gordon",
                     "Saben Lee",
-                    "Grayson Allen",
                     "Damion Lee"
                 ]
             ],
@@ -2144,10 +2401,10 @@
                     "Bradley Beal"
                 ],
                 [
-                    "Grayson Allen"
+                    "Eric Gordon"
                 ],
                 [
-                    "Eric Gordon",
+                    "Grayson Allen",
                     "Devin Booker",
                     "Jordan Goodwin",
                     "Josh Okogie",
@@ -2156,16 +2413,16 @@
             ],
             "Small Forward": [
                 [
+                    "Grayson Allen"
+                ],
+                [
                     "Josh Okogie"
                 ],
                 [
-                    "Eric Gordon"
-                ],
-                [
-                    "Nassir Little",
-                    "Grayson Allen",
-                    "Keita Bates-Diop",
                     "Yuta Watanabe",
+                    "Keita Bates-Diop",
+                    "Nassir Little",
+                    "Eric Gordon",
                     "Kevin Durant",
                     "Damion Lee"
                 ]
@@ -2175,15 +2432,14 @@
                     "Kevin Durant"
                 ],
                 [
-                    "Yuta Watanabe"
+                    "Chimezie Metu"
                 ],
                 [
                     "Keita Bates-Diop",
+                    "Yuta Watanabe",
                     "Nassir Little",
-                    "Drew Eubanks",
                     "Bol Bol",
-                    "Josh Okogie",
-                    "Chimezie Metu"
+                    "Josh Okogie"
                 ]
             ],
             "Center": [
@@ -2194,9 +2450,9 @@
                     "Drew Eubanks"
                 ],
                 [
-                    "Bol Bol",
                     "Chimezie Metu",
                     "Udoka Azubuike",
+                    "Bol Bol",
                     "Kevin Durant"
                 ]
             ]
@@ -2205,34 +2461,48 @@
     "Portland": {
         "Injuries": [
             {
-                "Player": "Robert Williams III",
+                "Player": "Malcolm Brogdon",
+                "Position": "PG",
+                "Updated": "Tue, Dec 12",
+                "Injury": "Knee",
+                "Injury Status": "Game Time Decision"
+            },
+            {
+                "Player": "Deandre Ayton",
                 "Position": "C",
-                "Updated": "Mon, Oct 30",
-                "Injury": "Rest",
-                "Injury Status": "Expected to be out until at least Nov 1"
+                "Updated": "Tue, Dec 12",
+                "Injury": "Knee",
+                "Injury Status": "Game Time Decision"
             },
             {
                 "Player": "Ishmail Wainright",
                 "Position": "SF",
-                "Updated": "Mon, Oct 30",
-                "Injury": "Calf",
-                "Injury Status": "Expected to be out until at least Nov 1"
+                "Updated": "Tue, Dec 12",
+                "Injury": "Knee",
+                "Injury Status": "Game Time Decision"
             },
             {
-                "Player": "Anfernee Simons",
-                "Position": "SG",
-                "Updated": "Fri, Oct 27",
-                "Injury": "Thumb",
-                "Injury Status": "Expected to be out until at least Dec 2"
+                "Player": "Jerami Grant",
+                "Position": "PF",
+                "Updated": "Tue, Dec 12",
+                "Injury": "Concussion",
+                "Injury Status": "Game Time Decision"
+            },
+            {
+                "Player": "Robert Williams III",
+                "Position": "C",
+                "Updated": "Fri, Nov 10",
+                "Injury": "Knee",
+                "Injury Status": "Out for the season"
             }
         ],
         "Depth Chart": {
             "Point Guard": [
                 [
-                    "Scoot Henderson"
+                    "Malcolm Brogdon"
                 ],
                 [
-                    "Malcolm Brogdon"
+                    "Scoot Henderson"
                 ],
                 [
                     "Anfernee Simons",
@@ -2245,31 +2515,31 @@
                     "Anfernee Simons"
                 ],
                 [
-                    "Shaedon Sharpe"
+                    "Matisse Thybulle"
                 ],
                 [
+                    "Shaedon Sharpe",
                     "Malcolm Brogdon",
                     "Scoot Henderson",
                     "Skylar Mays",
-                    "Matisse Thybulle",
                     "Rayan Rupert",
                     "Justin Minaya"
                 ]
             ],
             "Small Forward": [
                 [
-                    "Matisse Thybulle"
-                ],
-                [
                     "Shaedon Sharpe"
                 ],
                 [
+                    "Toumani Camara"
+                ],
+                [
+                    "Matisse Thybulle",
                     "Kris Murray",
-                    "Toumani Camara",
                     "Jerami Grant",
-                    "Ishmail Wainright",
                     "Rayan Rupert",
-                    "Justin Minaya"
+                    "Justin Minaya",
+                    "Ishmail Wainright"
                 ]
             ],
             "Power Forward": [
@@ -2277,13 +2547,13 @@
                     "Jerami Grant"
                 ],
                 [
-                    "Toumani Camara"
+                    "Jabari Walker"
                 ],
                 [
-                    "Jabari Walker",
+                    "Toumani Camara",
                     "Kris Murray",
-                    "Ishmail Wainright",
                     "Matisse Thybulle",
+                    "Ishmail Wainright",
                     "Robert Williams III"
                 ]
             ],
@@ -2292,14 +2562,15 @@
                     "Deandre Ayton"
                 ],
                 [
-                    "Robert Williams III"
+                    "Duop Reath"
                 ],
                 [
                     "Moses Brown",
+                    "Ibou Badji",
                     "Jabari Walker",
-                    "Ishmail Wainright",
                     "Jerami Grant",
-                    "Duop Reath"
+                    "Ishmail Wainright",
+                    "Robert Williams III"
                 ]
             ]
         }
@@ -2307,18 +2578,11 @@
     "Sacramento": {
         "Injuries": [
             {
-                "Player": "De'Aaron Fox",
-                "Position": "PG",
-                "Updated": "Mon, Oct 30",
+                "Player": "Alex Len",
+                "Position": "C",
+                "Updated": "Fri, Nov 17",
                 "Injury": "Ankle",
-                "Injury Status": "Expected to be out until at least Nov 6"
-            },
-            {
-                "Player": "Trey Lyles",
-                "Position": "PF",
-                "Updated": "Mon, Oct 30",
-                "Injury": "Calf",
-                "Injury Status": "Game Time Decision"
+                "Injury Status": "Expected to be out until at least Dec 29"
             }
         ],
         "Depth Chart": {
@@ -2343,12 +2607,11 @@
                     "Malik Monk"
                 ],
                 [
-                    "Chris Duarte",
                     "Davion Mitchell",
-                    "Keon Ellis",
-                    "Kessler Edwards",
+                    "Chris Duarte",
                     "Colby Jones",
-                    "Jordan Ford"
+                    "Keon Ellis",
+                    "Kessler Edwards"
                 ]
             ],
             "Small Forward": [
@@ -2361,8 +2624,8 @@
                 [
                     "Aleks Vezenkov",
                     "Kessler Edwards",
-                    "Kevin Huerter",
                     "Colby Jones",
+                    "Kevin Huerter",
                     "Keegan Murray",
                     "Jalen Slawson"
                 ]
@@ -2376,11 +2639,11 @@
                 ],
                 [
                     "Harrison Barnes",
-                    "Trey Lyles",
                     "Kessler Edwards",
+                    "Trey Lyles",
+                    "Jalen Slawson",
                     "Chris Duarte",
-                    "Domantas Sabonis",
-                    "Jalen Slawson"
+                    "Domantas Sabonis"
                 ]
             ],
             "Center": [
@@ -2397,21 +2660,111 @@
             ]
         }
     },
+    "San Antonio": {
+        "Injuries": [
+            {
+                "Player": "Sir'Jabari Rice",
+                "Position": "SG",
+                "Updated": "Tue, Dec 12",
+                "Injury": "Undisclosed",
+                "Injury Status": "Game Time Decision"
+            },
+            {
+                "Player": "Charles Bassey",
+                "Position": "C",
+                "Updated": "Tue, Dec 12",
+                "Injury": "Knee",
+                "Injury Status": "Out for the season"
+            }
+        ],
+        "Depth Chart": {
+            "Point Guard": [
+                [
+                    "Devin Vassell"
+                ],
+                [
+                    "Tre Jones"
+                ],
+                [
+                    "Malaki Branham",
+                    "Jeremy Sochan",
+                    "Devonte' Graham",
+                    "Blake Wesley"
+                ]
+            ],
+            "Shooting Guard": [
+                [
+                    "Malaki Branham"
+                ],
+                [
+                    "Julian Champagnie"
+                ],
+                [
+                    "Devin Vassell",
+                    "Devonte' Graham",
+                    "Doug McDermott",
+                    "Blake Wesley",
+                    "Sidy Cissoko",
+                    "Sir'Jabari Rice"
+                ]
+            ],
+            "Small Forward": [
+                [
+                    "Keldon Johnson"
+                ],
+                [
+                    "Doug McDermott"
+                ],
+                [
+                    "Julian Champagnie",
+                    "Cedi Osman",
+                    "Jeremy Sochan",
+                    "Devin Vassell",
+                    "Sidy Cissoko",
+                    "Malaki Branham"
+                ]
+            ],
+            "Power Forward": [
+                [
+                    "Jeremy Sochan"
+                ],
+                [
+                    "Cedi Osman"
+                ],
+                [
+                    "Victor Wembanyama",
+                    "Keldon Johnson",
+                    "Doug McDermott",
+                    "Dom Barlow",
+                    "Julian Champagnie",
+                    "Zach Collins"
+                ]
+            ],
+            "Center": [
+                [
+                    "Victor Wembanyama"
+                ],
+                [
+                    "Zach Collins"
+                ],
+                [
+                    "Sandro Mamukelashvili",
+                    "Dom Barlow",
+                    "Jeremy Sochan",
+                    "Charles Bediako",
+                    "Charles Bassey"
+                ]
+            ]
+        }
+    },
     "Toronto": {
         "Injuries": [
             {
-                "Player": "Precious Achiuwa",
-                "Position": "PF",
-                "Updated": "Mon, Oct 30",
-                "Injury": "Groin",
-                "Injury Status": "Expected to be out until at least Nov 1"
-            },
-            {
                 "Player": "Christian Koloko",
                 "Position": "C",
-                "Updated": "Sun, Oct 29",
+                "Updated": "Tue, Dec 12",
                 "Injury": "Illness",
-                "Injury Status": "Expected to be out until at least Nov 1"
+                "Injury Status": "Expected to be out until at least Dec 15"
             }
         ],
         "Depth Chart": {
@@ -2424,6 +2777,7 @@
                 ],
                 [
                     "Scottie Barnes",
+                    "Gary Trent Jr.",
                     "Markquis Nowell",
                     "Javon Freeman-Liberty"
                 ]
@@ -2437,9 +2791,10 @@
                 ],
                 [
                     "Gradey Dick",
-                    "Dennis Schroder",
-                    "Garrett Temple",
                     "Malachi Flynn",
+                    "Garrett Temple",
+                    "Dennis Schroder",
+                    "Otto Porter Jr.",
                     "Javon Freeman-Liberty",
                     "Scottie Barnes"
                 ]
@@ -2449,17 +2804,15 @@
                     "Scottie Barnes"
                 ],
                 [
-                    "Gary Trent Jr."
+                    "Jalen McDaniels"
                 ],
                 [
-                    "Jalen McDaniels",
                     "Gradey Dick",
                     "Garrett Temple",
                     "Otto Porter Jr.",
                     "OG Anunoby",
                     "Thaddeus Young",
-                    "Pascal Siakam",
-                    "Ron Harper Jr."
+                    "Pascal Siakam"
                 ]
             ],
             "Power Forward": [
@@ -2467,16 +2820,16 @@
                     "Pascal Siakam"
                 ],
                 [
-                    "Jalen McDaniels"
+                    "Chris Boucher"
                 ],
                 [
-                    "Chris Boucher",
+                    "Jalen McDaniels",
                     "Otto Porter Jr.",
                     "Thaddeus Young",
                     "Scottie Barnes",
                     "OG Anunoby",
                     "Precious Achiuwa",
-                    "Ron Harper Jr."
+                    "Jontay Porter"
                 ]
             ],
             "Center": [
@@ -2489,8 +2842,125 @@
                 [
                     "Pascal Siakam",
                     "Christian Koloko",
+                    "Jontay Porter",
                     "Thaddeus Young",
                     "Chris Boucher"
+                ]
+            ]
+        }
+    },
+    "Utah": {
+        "Injuries": [
+            {
+                "Player": "John Collins",
+                "Position": "PF",
+                "Updated": "Wed, Dec 13",
+                "Injury": "Illness",
+                "Injury Status": "Expected to be out until at least Dec 14"
+            },
+            {
+                "Player": "Luka Samanic",
+                "Position": "PF",
+                "Updated": "Wed, Dec 13",
+                "Injury": "Illness",
+                "Injury Status": "Expected to be out until at least Dec 14"
+            },
+            {
+                "Player": "Lauri Markkanen",
+                "Position": "SF",
+                "Updated": "Tue, Dec 12",
+                "Injury": "Hamstring",
+                "Injury Status": "Game Time Decision"
+            },
+            {
+                "Player": "Jordan Clarkson",
+                "Position": "PG",
+                "Updated": "Tue, Dec 12",
+                "Injury": "Hamstring",
+                "Injury Status": "Expected to be out until at least Dec 28"
+            }
+        ],
+        "Depth Chart": {
+            "Point Guard": [
+                [
+                    "Keyonte George"
+                ],
+                [
+                    "Collin Sexton"
+                ],
+                [
+                    "Kris Dunn",
+                    "Jordan Clarkson",
+                    "Talen Horton-Tucker",
+                    "Josh Christopher"
+                ]
+            ],
+            "Shooting Guard": [
+                [
+                    "Jordan Clarkson"
+                ],
+                [
+                    "Talen Horton-Tucker"
+                ],
+                [
+                    "Collin Sexton",
+                    "Kris Dunn",
+                    "Ochai Agbaji",
+                    "Keyonte George",
+                    "Brice Sensabaugh",
+                    "Josh Christopher",
+                    "Johnny Juzang"
+                ]
+            ],
+            "Small Forward": [
+                [
+                    "Lauri Markkanen"
+                ],
+                [
+                    "Ochai Agbaji"
+                ],
+                [
+                    "Simone Fontecchio",
+                    "Talen Horton-Tucker",
+                    "Kris Dunn",
+                    "Jordan Clarkson",
+                    "Brice Sensabaugh",
+                    "Luka Samanic",
+                    "Taylor Hendricks",
+                    "Johnny Juzang",
+                    "Josh Christopher"
+                ]
+            ],
+            "Power Forward": [
+                [
+                    "John Collins"
+                ],
+                [
+                    "Simone Fontecchio"
+                ],
+                [
+                    "Lauri Markkanen",
+                    "Taylor Hendricks",
+                    "Ochai Agbaji",
+                    "Kelly Olynyk",
+                    "Luka Samanic",
+                    "Brice Sensabaugh",
+                    "Talen Horton-Tucker"
+                ]
+            ],
+            "Center": [
+                [
+                    "Walker Kessler"
+                ],
+                [
+                    "Kelly Olynyk"
+                ],
+                [
+                    "Omer Yurtseven",
+                    "John Collins",
+                    "Taylor Hendricks",
+                    "Micah Potter",
+                    "Luka Samanic"
                 ]
             ]
         }
@@ -2498,18 +2968,39 @@
     "Washington": {
         "Injuries": [
             {
-                "Player": "Daniel Gafford",
-                "Position": "C",
-                "Updated": "Mon, Oct 30",
-                "Injury": "Ankle",
-                "Injury Status": "Expected to be out until at least Nov 1"
+                "Player": "Ryan Rollins",
+                "Position": "SG",
+                "Updated": "Tue, Dec 12",
+                "Injury": "Knee",
+                "Injury Status": "Expected to be out until at least Dec 15"
+            },
+            {
+                "Player": "Johnny Davis",
+                "Position": "SG",
+                "Updated": "Tue, Dec 12",
+                "Injury": "Calf",
+                "Injury Status": "Expected to be out until at least Dec 15"
             },
             {
                 "Player": "Landry Shamet",
                 "Position": "SG",
-                "Updated": "Sun, Oct 29",
-                "Injury": "Toe",
-                "Injury Status": "Expected to be out until at least Nov 1"
+                "Updated": "Tue, Dec 12",
+                "Injury": "Ribs",
+                "Injury Status": "Expected to be out until at least Dec 15"
+            },
+            {
+                "Player": "Eugene Omoruyi",
+                "Position": "SF",
+                "Updated": "Tue, Dec 12",
+                "Injury": "Concussion",
+                "Injury Status": "Expected to be out until at least Dec 15"
+            },
+            {
+                "Player": "Delon Wright",
+                "Position": "SG",
+                "Updated": "Tue, Dec 12",
+                "Injury": "Knee",
+                "Injury Status": "Expected to be out until at least Dec 15"
             }
         ],
         "Depth Chart": {
@@ -2521,10 +3012,10 @@
                     "Delon Wright"
                 ],
                 [
-                    "Jordan Poole",
+                    "Jared Butler",
                     "Landry Shamet",
-                    "Ryan Rollins",
-                    "Jared Butler"
+                    "Jordan Poole",
+                    "Ryan Rollins"
                 ]
             ],
             "Shooting Guard": [
@@ -2535,47 +3026,48 @@
                     "Landry Shamet"
                 ],
                 [
-                    "Corey Kispert",
                     "Johnny Davis",
+                    "Bilal Coulibaly",
+                    "Corey Kispert",
                     "Delon Wright",
                     "Ryan Rollins",
-                    "Bilal Coulibaly",
                     "Deni Avdija",
+                    "Jules Bernard",
                     "Jared Butler"
                 ]
             ],
             "Small Forward": [
                 [
-                    "Kyle Kuzma"
+                    "Deni Avdija"
                 ],
                 [
                     "Bilal Coulibaly"
                 ],
                 [
-                    "Deni Avdija",
                     "Corey Kispert",
-                    "Danilo Gallinari",
-                    "Patrick Baldwin Jr.",
-                    "Landry Shamet",
-                    "Jared Butler",
-                    "Anthony Gill",
+                    "Johnny Davis",
                     "Eugene Omoruyi",
-                    "Johnny Davis"
+                    "Kyle Kuzma",
+                    "Danilo Gallinari",
+                    "Landry Shamet",
+                    "Anthony Gill",
+                    "Jules Bernard",
+                    "Patrick Baldwin Jr."
                 ]
             ],
             "Power Forward": [
                 [
-                    "Deni Avdija"
+                    "Kyle Kuzma"
                 ],
                 [
-                    "Danilo Gallinari"
+                    "Corey Kispert"
                 ],
                 [
-                    "Kyle Kuzma",
-                    "Patrick Baldwin Jr.",
-                    "Eugene Omoruyi",
+                    "Deni Avdija",
+                    "Danilo Gallinari",
                     "Anthony Gill",
-                    "John Butler"
+                    "Eugene Omoruyi",
+                    "Patrick Baldwin Jr."
                 ]
             ],
             "Center": [
@@ -2583,12 +3075,12 @@
                     "Daniel Gafford"
                 ],
                 [
-                    "Mike Muscala"
+                    "Danilo Gallinari"
                 ],
                 [
-                    "John Butler",
+                    "Mike Muscala",
                     "Anthony Gill",
-                    "Danilo Gallinari"
+                    "Kyle Kuzma"
                 ]
             ]
         }

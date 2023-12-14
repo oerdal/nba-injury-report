@@ -1,24 +1,32 @@
 {
+    "Dennis Smith Jr. (Point Guard)": {
+        "Team": "BKN",
+        "Replacements": [
+            "Cameron Thomas",
+            "Armoni Brooks",
+            "Keon Johnson"
+        ]
+    },
     "Nicolas Claxton (Center)": {
-        "Team": "Brooklyn",
+        "Team": "BKN",
         "Replacements": [
             "Day'Ron Sharpe"
         ]
     },
-    "Cameron Johnson (Power Forward)": {
-        "Team": "Brooklyn",
-        "Replacements": [
-            "Dorian Finney-Smith"
-        ]
-    },
     "Spencer Dinwiddie (Shooting Guard)": {
-        "Team": "Brooklyn",
+        "Team": "BKN",
         "Replacements": [
             "Cameron Thomas"
         ]
     },
+    "Cameron Johnson (Power Forward)": {
+        "Team": "BKN",
+        "Replacements": [
+            "Dorian Finney-Smith"
+        ]
+    },
     "Cody Martin (Shooting Guard)": {
-        "Team": "Charlotte",
+        "Team": "CHA",
         "Replacements": [
             "Bryce McGowens",
             "Nick Smith Jr.",
@@ -28,65 +36,93 @@
             "Theo Maledon"
         ]
     },
+    "Ish Smith (Point Guard)": {
+        "Team": "CHA",
+        "Replacements": [
+            "Theo Maledon",
+            "Nick Smith Jr.",
+            "Terry Rozier"
+        ]
+    },
+    "Darius Garland (Point Guard)": {
+        "Team": "CLE",
+        "Replacements": [
+            "Craig Porter Jr."
+        ]
+    },
     "Jarrett Allen (Center)": {
-        "Team": "Cleveland",
+        "Team": "CLE",
         "Replacements": [
             "Damian Jones"
         ]
     },
-    "Darius Garland (Point Guard)": {
-        "Team": "Cleveland",
+    "Kyrie Irving (Point Guard)": {
+        "Team": "DAL",
         "Replacements": [
-            "Caris LeVert",
-            "Craig Porter Jr."
-        ]
-    },
-    "Donovan Mitchell (Point Guard)": {
-        "Team": "Cleveland",
-        "Replacements": [
-            "Caris LeVert",
-            "Craig Porter Jr."
-        ]
-    },
-    "Donovan Mitchell (Shooting Guard)": {
-        "Team": "Cleveland",
-        "Replacements": [
-            "Caris LeVert"
+            "Dante Exum",
+            "Jaden Hardy",
+            "Seth Curry"
         ]
     },
     "Kyrie Irving (Shooting Guard)": {
-        "Team": "Dallas",
+        "Team": "DAL",
         "Replacements": [
             "Tim Hardaway Jr."
         ]
     },
+    "Maxi Kleber (Power Forward)": {
+        "Team": "DAL",
+        "Replacements": [
+            "Grant Williams",
+            "Josh Green",
+            "Olivier-Maxence Prosper",
+            "Markieff Morris",
+            "Greg Brown"
+        ]
+    },
+    "Jalen Duren (Center)": {
+        "Team": "DET",
+        "Replacements": [
+            "Marvin Bagley III"
+        ]
+    },
+    "Alec Burks (Small Forward)": {
+        "Team": "DET",
+        "Replacements": [
+            "Joe Harris",
+            "Cade Cunningham",
+            "Jared Rhoden",
+            "Malcolm Cazalon",
+            "Stanley Umude"
+        ]
+    },
+    "Bojan Bogdanovic (Power Forward)": {
+        "Team": "DET",
+        "Replacements": [
+            "Joe Harris",
+            "Ausar Thompson",
+            "Marvin Bagley III",
+            "Jared Rhoden"
+        ]
+    },
     "Monte Morris (Point Guard)": {
-        "Team": "Detroit",
+        "Team": "DET",
         "Replacements": [
             "Marcus Sasser",
             "Jaden Ivey",
             "Cade Cunningham",
-            "Ausar Thompson",
-            "Alec Burks"
+            "Ausar Thompson"
         ]
     },
-    "Jonathan Kuminga (Power Forward)": {
-        "Team": "Golden St.",
+    "Amen Thompson (Point Guard)": {
+        "Team": "HOU",
         "Replacements": [
-            "Andrew Wiggins",
-            "Dario Saric",
-            "Trayce Jackson-Davis",
-            "Usman Garuba"
-        ]
-    },
-    "Klay Thompson (Shooting Guard)": {
-        "Team": "Golden St.",
-        "Replacements": [
-            "Moses Moody"
+            "Aaron Holiday",
+            "Jae'Sean Tate"
         ]
     },
     "Tari Eason (Power Forward)": {
-        "Team": "Houston",
+        "Team": "HOU",
         "Replacements": [
             "Jeff Green",
             "Jae'Sean Tate",
@@ -95,49 +131,75 @@
             "Jermaine Samuels"
         ]
     },
-    "Jock Landale (Center)": {
-        "Team": "Houston",
+    "Jalen Smith (Center)": {
+        "Team": "IND",
         "Replacements": [
-            "Boban Marjanovic",
-            "Jeff Green",
-            "Jabari Smith"
+            "Isaiah Jackson",
+            "Obi Toppin",
+            "Daniel Theis",
+            "Jarace Walker",
+            "Oscar Tshiebwe"
         ]
     },
-    "Ivica Zubac (Center)": {
-        "Team": "L.A. Clippers",
+    "Tyrese Haliburton (Point Guard)": {
+        "Team": "IND",
         "Replacements": [
-            "Mason Plumlee"
+            "T.J. McConnell"
         ]
     },
     "Terance Mann (Small Forward)": {
-        "Team": "L.A. Clippers",
+        "Team": "LAC",
         "Replacements": [
-            "Kenyon Martin Jr."
+            "Amir Coffey"
         ]
     },
-    "Norman Powell (Shooting Guard)": {
-        "Team": "L.A. Clippers",
+    "James Harden (Point Guard)": {
+        "Team": "LAC",
         "Replacements": [
-            "Bones Hyland",
-            "Amir Coffey",
-            "Kenyon Martin Jr.",
-            "Jordan Miller"
+            "Russell Westbrook"
         ]
     },
-    "LeBron James (Small Forward)": {
-        "Team": "L.A. Lakers",
+    "Taurean Prince (Small Forward)": {
+        "Team": "LAL",
         "Replacements": [
-            "Taurean Prince"
+            "Cam Reddish",
+            "Austin Reaves",
+            "Max Christie",
+            "Maxwell Lewis",
+            "D'Moi Hodge",
+            "Alex Fudge"
+        ]
+    },
+    "Taurean Prince (Power Forward)": {
+        "Team": "LAL",
+        "Replacements": [
+            "LeBron James",
+            "Anthony Davis",
+            "Christian Wood",
+            "Jaxson Hayes",
+            "Maxwell Lewis",
+            "Alex Fudge"
+        ]
+    },
+    "Gabe Vincent (Point Guard)": {
+        "Team": "LAL",
+        "Replacements": [
+            "Austin Reaves"
         ]
     },
     "Jarred Vanderbilt (Power Forward)": {
-        "Team": "L.A. Lakers",
+        "Team": "LAL",
         "Replacements": [
-            "Taurean Prince"
+            "LeBron James",
+            "Anthony Davis",
+            "Christian Wood",
+            "Jaxson Hayes",
+            "Maxwell Lewis",
+            "Alex Fudge"
         ]
     },
     "Santi Aldama (Power Forward)": {
-        "Team": "Memphis",
+        "Team": "MEM",
         "Replacements": [
             "Jake LaRavia",
             "David Roddy",
@@ -146,125 +208,118 @@
             "Ziaire Williams"
         ]
     },
-    "Luke Kennard (Shooting Guard)": {
-        "Team": "Memphis",
+    "Derrick Rose (Point Guard)": {
+        "Team": "MEM",
         "Replacements": [
-            "Derrick Rose",
-            "Marcus Smart",
+            "Jacob Gilyard",
             "John Konchar",
-            "Ziaire Williams",
-            "David Roddy",
-            "Vince Williams Jr."
+            "Luke Kennard",
+            "Ja Morant"
         ]
     },
-    "Bam Adebayo (Center)": {
-        "Team": "Miami",
+    "Kevin Love (Power Forward)": {
+        "Team": "MIA",
         "Replacements": [
-            "Thomas Bryant"
+            "Haywood Highsmith"
         ]
     },
-    "MarJon Beauchamp (Shooting Guard)": {
-        "Team": "Milwaukee",
+    "Caleb Martin (Small Forward)": {
+        "Team": "MIA",
         "Replacements": [
-            "Khris Middleton",
-            "Pat Connaughton",
-            "Cameron Payne",
-            "AJ Green",
-            "Andre Jackson Jr."
+            "Jaime Jaquez Jr.",
+            "Josh Richardson",
+            "Duncan Robinson",
+            "Haywood Highsmith",
+            "Tyler Herro",
+            "Nikola Jovic",
+            "Jamal Cain",
+            "R.J. Hampton",
+            "Cole Swider"
+        ]
+    },
+    "Brandon Ingram (Shooting Guard)": {
+        "Team": "NOP",
+        "Replacements": [
+            "Dyson Daniels"
         ]
     },
     "Naji Marshall (Power Forward)": {
-        "Team": "New Orleans",
+        "Team": "NOP",
         "Replacements": [
             "Herbert Jones",
             "Larry Nance Jr.",
             "E.J. Liddell"
         ]
     },
-    "Brandon Ingram (Shooting Guard)": {
-        "Team": "New Orleans",
-        "Replacements": [
-            "Dyson Daniels"
-        ]
-    },
     "Jose Alvarado (Point Guard)": {
-        "Team": "New Orleans",
+        "Team": "NOP",
         "Replacements": [
             "Kira Lewis Jr.",
             "Dyson Daniels"
         ]
     },
     "Trey Murphy III (Small Forward)": {
-        "Team": "New Orleans",
+        "Team": "NOP",
         "Replacements": [
+            "Matt Ryan",
             "Dyson Daniels",
             "Dereon Seabron",
-            "Kaiser Gates",
-            "Matt Ryan"
+            "Kaiser Gates"
+        ]
+    },
+    "RJ Barrett (Small Forward)": {
+        "Team": "NYK",
+        "Replacements": [
+            "Josh Hart"
         ]
     },
     "Jaylin Williams (Center)": {
-        "Team": "Oklahoma City",
+        "Team": "OKC",
         "Replacements": [
             "Olivier Sarr",
             "Aleksej Pokusevski",
             "Davis Bertans"
         ]
     },
-    "Tyrese Maxey (Shooting Guard)": {
-        "Team": "Philadelphia",
-        "Replacements": [
-            "De'Anthony Melton"
-        ]
-    },
-    "James Harden (Point Guard)": {
-        "Team": "Philadelphia",
-        "Replacements": [
-            "Patrick Beverley"
-        ]
-    },
     "Bradley Beal (Shooting Guard)": {
-        "Team": "Phoenix",
+        "Team": "PHX",
         "Replacements": [
             "Grayson Allen"
         ]
     },
     "Devin Booker (Point Guard)": {
-        "Team": "Phoenix",
+        "Team": "PHX",
         "Replacements": [
             "Jordan Goodwin"
         ]
     },
-    "Robert Williams III (Center)": {
-        "Team": "Portland",
+    "Scoot Henderson (Point Guard)": {
+        "Team": "POR",
         "Replacements": [
-            "Moses Brown",
-            "Jabari Walker",
-            "Jerami Grant",
-            "Duop Reath"
+            "Malcolm Brogdon"
         ]
     },
     "Anfernee Simons (Shooting Guard)": {
-        "Team": "Portland",
+        "Team": "POR",
         "Replacements": [
             "Shaedon Sharpe"
         ]
     },
     "De'Aaron Fox (Point Guard)": {
-        "Team": "Sacramento",
+        "Team": "SAC",
         "Replacements": [
             "Davion Mitchell"
         ]
     },
     "Trey Lyles (Center)": {
-        "Team": "Sacramento",
+        "Team": "SAC",
         "Replacements": [
             "JaVale McGee",
             "Alex Len"
         ]
     },
     "Precious Achiuwa (Center)": {
-        "Team": "Toronto",
+        "Team": "TOR",
         "Replacements": [
             "Pascal Siakam",
             "Thaddeus Young",
@@ -272,21 +327,9 @@
         ]
     },
     "Daniel Gafford (Center)": {
-        "Team": "Washington",
+        "Team": "WAS",
         "Replacements": [
             "Mike Muscala"
-        ]
-    },
-    "Landry Shamet (Shooting Guard)": {
-        "Team": "Washington",
-        "Replacements": [
-            "Corey Kispert",
-            "Johnny Davis",
-            "Delon Wright",
-            "Ryan Rollins",
-            "Bilal Coulibaly",
-            "Deni Avdija",
-            "Jared Butler"
         ]
     }
 }

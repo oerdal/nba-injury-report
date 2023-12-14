@@ -1,6 +1,38 @@
 import json
 
 POSITION_MAP = {'PG': 'Point Guard', 'SG': 'Shooting Guard', 'SF': 'Small Forward', 'PF': 'Power Forward', 'C': 'Center'}
+TEAM_ABBREVIATIONS = {
+    'Atlanta': 'ATL',
+	'Boston': 'BOS',
+	'Brooklyn': 'BKN',
+	'Charlotte': 'CHA',
+	'Chicago': 'CHI',
+	'Cleveland': 'CLE',
+	'Dallas': 'DAL',
+	'Denver': 'DEN',
+	'Detroit': 'DET',
+	'Golden St.': 'GSW',
+	'Houston': 'HOU',
+    'Indiana': 'IND',
+	'L.A. Clippers': 'LAC',
+	'L.A. Lakers': 'LAL',
+	'Memphis': 'MEM',
+	'Miami': 'MIA',
+	'Milwaukee': 'MIL',
+	'Minnesota': 'MIN',
+	'New Orleans': 'NOP',
+    'New York': 'NYK',
+	'Oklahoma City': 'OKC',
+	'Orlando': 'ORL',
+	'Philadelphia': 'PHI',
+	'Phoenix': 'PHX',
+	'Portland': 'POR',
+	'Sacramento': 'SAC',
+    'San Antonio': 'SAS',
+	'Toronto': 'TOR',
+    'Utah': 'UTA',
+	'Washington': 'WAS'
+}
 
 
 # report file should be a json file generated from injury_scraper.py
@@ -59,7 +91,7 @@ def process_report(report):
                         # remove injured players from replacements
                         replacements = [replacement for replacement in replacements if replacement not in injured_players]
 
-                    injury_report[f'{player["Player"]} ({position})'] = {'Team': team, 'Replacements': replacements}
+                    injury_report[f'{player["Player"]} ({position})'] = {'Team': TEAM_ABBREVIATIONS[team], 'Replacements': replacements}
                     print(f'{player["Player"]} at {position} #{rank+1} with potential replacements: {replacements}')
         
     return injury_report

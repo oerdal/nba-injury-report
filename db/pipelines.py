@@ -3,6 +3,39 @@ import sys
 from dotenv import dotenv_values
 import json
 
+TEAM_ABBREVIATIONS = {
+    'Atlanta': 'ATL',
+	'Boston': 'BOS',
+	'Brooklyn': 'BKN',
+	'Charlotte': 'CHA',
+	'Chicago': 'CHI',
+	'Cleveland': 'CLE',
+	'Dallas': 'DAL',
+	'Denver': 'DEN',
+	'Detroit': 'DET',
+	'Golden St.': 'GSW',
+	'Houston': 'HOU',
+    'Indiana': 'IND',
+	'L.A. Clippers': 'LAC',
+	'L.A. Lakers': 'LAL',
+	'Memphis': 'MEM',
+	'Miami': 'MIA',
+	'Milwaukee': 'MIL',
+	'Minnesota': 'MIN',
+	'New Orleans': 'NOP',
+    'New York': 'NYK',
+	'Oklahoma City': 'OKC',
+	'Orlando': 'ORL',
+	'Philadelphia': 'PHI',
+	'Phoenix': 'PHX',
+	'Portland': 'POR',
+	'Sacramento': 'SAC',
+    'San Antonio': 'SAS',
+	'Toronto': 'TOR',
+    'Utah': 'UTA',
+	'Washington': 'WAS'
+}
+
 class MongoDBPipeline:
 
     def __init__(self, mongodb_uri, mongodb_db, collection):
@@ -50,7 +83,7 @@ def daily_pipeline():
     daily_report = load_league_report()
     if daily_report:
         for team, team_data in daily_report.items():
-            team_data['Team'] = team
+            team_data['Team'] = TEAM_ABBREVIATIONS[team]
             DailyPipeline.process_team(team_data)
             
     DailyPipeline.close_connection()
