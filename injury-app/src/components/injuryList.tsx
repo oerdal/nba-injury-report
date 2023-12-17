@@ -10,7 +10,7 @@ import LogoBank from './logoBank';
 // }
 
 interface Record {
-    _id: number;
+    _id: string;
     "Injuries": any;
     depthChart: any;
     "Team": string;
@@ -69,7 +69,6 @@ function InjuryRecord(props: InjuryData) {
 
 function RecordList() {
     const [records, setRecords] = useState([]);
-    const [currentRecord, setCurrentRecord] = useState("");
     const [currentTeam, setCurrentTeam] = useState("");
 
     useEffect(() => {
@@ -85,10 +84,6 @@ function RecordList() {
         getRecords();
         return;
     }, [records.length]);
-
-    function handleRecordChange(newRecord: string) {
-        setCurrentRecord(newRecord);
-    }
 
     function handleTeamChange(newTeam: string) {
         setCurrentTeam(newTeam);
@@ -119,17 +114,22 @@ function RecordList() {
             if (!teamInjuries) {
                 return(<></>)
             }
-            
-            console.log(teamInjuries);
 
             return teamInjuries.map((playerRecord: InjuryRecord) => {
                 return (
                     <InjuryRecord
                         record={playerRecord}
+                        key={playerRecord.Player}
                     />
                 )
             });
         }
+    }
+
+    // code snippet from https://steveridout.com/mongo-object-time/
+    function dateFromObjectId (objectId: string) {
+        var date = new Date(parseInt(objectId.substring(0, 8), 16) * 1000);
+        return date.toString();
     }
 
     return (
@@ -139,6 +139,8 @@ function RecordList() {
             />
             <div id='injury-table'>
                 <h3>{currentTeam} Injury Table</h3>
+                {records && records[0] ? <small>Last updated at {dateFromObjectId(records[0]["_id"])}</small> : <></>}
+                <button id="update-btn">Request Update</button>
                 <table className='table'>
                     <thead>
                         <tr>
